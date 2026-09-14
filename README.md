@@ -3,3 +3,8 @@
 
 ## 上課網址
 https://meet.google.com/iya-tpvc-zgh
+
+
+
+## 學員上傳素材網址
+https://drive.google.com/drive/folders/1hG5Tx-EB6cSJwLgkdxiJn6dJWcXjvNHx?usp=sharing

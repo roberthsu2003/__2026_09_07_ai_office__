@@ -1,0 +1,10 @@
+import fs from 'node:fs/promises';
+import {FileBlob,SpreadsheetFile} from '@oai/artifact-tool';
+const w=await SpreadsheetFile.importXlsx(await FileBlob.load('outputs/01a10bc7-8ae6-7fc0-82fa-7915b40e0642/出納付款放行總表_已完成_20261001_20261006.xlsx'));
+w.recalculate();
+const s=w.worksheets.getItemAt(0);
+if(s.getRange('H11').values[0][0]!==1644295)throw Error('合計驗證失敗');
+console.log((await w.inspect({kind:'match',searchTerm:'#REF!|#DIV/0!|#VALUE!|#NAME\\?|\\{\\{',options:{useRegex:true,maxResults:10},maxChars:500})).ndjson);
+const p=await w.render({sheetName:s.name,range:'A1:J14',scale:1});
+await fs.writeFile('.work/period.png',new Uint8Array(await p.arrayBuffer()));
+console.log('合計及公式錯誤檢查完成。');

@@ -35,3 +35,10 @@ https://www.youtube.com/watch?v=ySsr3ub2DDQ
 
 ## 2026_10_07_晚上
 https://www.youtube.com/watch?v=upjrFVnyQTQ
+
+---
+
+## 2026_10_12_晚上 
+https://www.youtube.com/watch?v=63CV8SqETgA
+
+---

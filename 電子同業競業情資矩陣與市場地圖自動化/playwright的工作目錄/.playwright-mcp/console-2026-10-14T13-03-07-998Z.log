@@ -1,0 +1,2 @@
+[   23852ms] [ERROR] Access to fetch at 'https://openapi.twse.com.tw/v1/opendata/t187ap05_L' from origin 'https://www.tpex.org.tw' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.tpex.org.tw/openapi/:0
+[   23853ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://openapi.twse.com.tw/v1/opendata/t187ap05_L:0

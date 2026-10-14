@@ -1,0 +1,12 @@
+- generic [ref=f29e3]:
+  - generic [ref=f29e6]:
+    - generic [ref=f29e43]:
+      - textbox [disabled] [ref=f29e44]: https://openapi.twse.com.tw/v1/swagger.json
+      - button "Explore" [ref=f29e45] [cursor=pointer]
+    - button [ref=f29e47] [cursor=pointer]
+  - generic [ref=f29e50]: loading
+  - generic:
+    - generic:
+      - generic:
+        - link:
+          - /url: https://validator.swagger.io/validator/debug?url=https%3A%2F%2Fopenapi.twse.com.tw%2Fv1%2Fswagger.json

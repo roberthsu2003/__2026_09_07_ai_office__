@@ -1,0 +1,170 @@
+- generic [active] [ref=f21e1]:
+  - generic:
+    - generic:
+      - link "跳至主內容" [ref=f21e2] [cursor=pointer]
+      - link "無障礙說明" [ref=f21e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=zh-TW
+  - generic [ref=f21e8]:
+    - search [ref=f21e9]:
+      - generic [ref=f21e11]:
+        - link "Google 首頁" [ref=f21e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=zh-TW&sa=X&ved=2ahUKEwjtv7GTybmXAxV6dusIHTgqIh8QPHoECAYQBA
+        - generic [ref=f21e22]:
+          - combobox "搜尋" [ref=f21e24]: MOPS 月營收 歷史 ajax_t21sc03_1 encodeURIComponent MOPS 月營收 歷史 ajax_t21sc03_1 encodeURIComponent
+          - generic [ref=f21e25]:
+            - button "清除" [ref=f21e29] [cursor=pointer]
+            - generic [ref=f21e34]:
+              - button "語音搜尋" [ref=f21e37] [cursor=pointer]
+              - button "以圖搜尋" [ref=f21e42] [cursor=pointer]
+    - generic [ref=f21e45]:
+      - button "設定" [ref=f21e47] [cursor=pointer]
+      - button "分享" [ref=f21e52] [cursor=pointer]
+      - generic [ref=f21e58]:
+        - button "Google 應用程式" [ref=f21e60] [cursor=pointer]
+        - link "登入" [ref=f21e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=zh-TW&passive=true&continue=https://www.google.com/search%3Fq%3DMOPS%2B%25E6%259C%2588%25E7%2587%259F%25E6%2594%25B6%2B%25E6%25AD%25B7%25E5%258F%25B2%2Bajax_t21sc03_1%2BencodeURIComponent&ec=futura_srp_og_si_72236_p
+  - generic [ref=f21e67]:
+    - navigation [ref=f21e73]:
+      - generic [ref=f21e79]:
+        - list [ref=f21e80]:
+          - listitem [ref=f21e81]:
+            - link "AI 模式" [ref=f21e84] [cursor=pointer]:
+              - /url: /search?q=MOPS+%E6%9C%88%E7%87%9F%E6%94%B6+%E6%AD%B7%E5%8F%B2+ajax_t21sc03_1+encodeURIComponent&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntVOcHIsSYKNcRTTt2S9toG0F19PA:1791983071561&udm=50&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fOgk4t2BtnPd-mbK7HpyKiDDvV0cT7SH8sm5WzLy3ogL90N80G39Ws1rfSvqoq4v4Im9SUFHXsmhzqvcELriwI7hvsLMnFy_v-FLtQJUWKCFVwjMbL3X0uo0685-CNjNkt31rbSoegtjWBovmnaDabo801vP&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwjtv7GTybmXAxV6dusIHTgqIh8Q2J8OegQIFBAD
+          - listitem [ref=f21e88]:
+            - link "全部" [disabled] [ref=f21e89]
+          - listitem [ref=f21e92]:
+            - link "新聞" [ref=f21e93] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntVOcHIsSYKNcRTTt2S9toG0F19PA:1791983071561&q=MOPS+%E6%9C%88%E7%87%9F%E6%94%B6+%E6%AD%B7%E5%8F%B2+ajax_t21sc03_1+encodeURIComponent&tbm=nws&source=lnms&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fOgk4t2BtnPd-mbK7HpyKiDDvV0cT7SH8sm5WzLy3ogL90N80G39Ws1rfSvqoq4v4Im9SUFHXsmhzqvcELriwI7hvsLMnFy_v-FLtQJUWKCFVwjMbL3X0uo0685-CNjNkt31rbSoegtjWBovmnaDabo801vP&sa=X&ved=2ahUKEwjtv7GTybmXAxV6dusIHTgqIh8Q0pQJegQIGhAB
+          - listitem [ref=f21e96]:
+            - link "影片" [ref=f21e97] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntVOcHIsSYKNcRTTt2S9toG0F19PA:1791983071561&udm=vids&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fOgk4t2BtnPd-mbK7HpyKiDDvV0cT7SH8sm5WzLy3ogL90N80G39Ws1rfSvqoq4v4Im9SUFHXsmhzqvcELriwI7hvsLMnFy_v-FLtQJUWKCFVwjMbL3X0uo0685-CNjNkt31rbSoegtjWBovmnaDabo801vP&q=MOPS+%E6%9C%88%E7%87%9F%E6%94%B6+%E6%AD%B7%E5%8F%B2+ajax_t21sc03_1+encodeURIComponent&sa=X&ved=2ahUKEwjtv7GTybmXAxV6dusIHTgqIh8QtKgLegQIGRAB
+          - listitem [ref=f21e100]:
+            - link "圖片" [ref=f21e101] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntVOcHIsSYKNcRTTt2S9toG0F19PA:1791983071561&udm=2&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fOgk4t2BtnPd-mbK7HpyKiDDvV0cT7SH8sm5WzLy3ogL90N80G39Ws1rfSvqoq4v4Im9SUFHXsmhzqvcELriwI7hvsLMnFy_v-FLtQJUWKCFVwjMbL3X0uo0685-CNjNkt31rbSoegtjWBovmnaDabo801vP&q=MOPS+%E6%9C%88%E7%87%9F%E6%94%B6+%E6%AD%B7%E5%8F%B2+ajax_t21sc03_1+encodeURIComponent&sa=X&ved=2ahUKEwjtv7GTybmXAxV6dusIHTgqIh8QtKgLegQIGBAB
+          - listitem [ref=f21e104]:
+            - link "購物" [ref=f21e105] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntVOcHIsSYKNcRTTt2S9toG0F19PA:1791983071561&udm=28&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fOgk4t2BtnPd-mbK7HpyKiDDvV0cT7SH8sm5WzLy3ogL90N80G39Ws1rfSvqoq4v4Im9SUFHXsmhzqvcELriwI7hvsLMnFy_v-FLtQJUWKCFVwjMbL3X0uo0685-CNjNkt31rbSoegtjWBovmnaDabo801vP&q=MOPS+%E6%9C%88%E7%87%9F%E6%94%B6+%E6%AD%B7%E5%8F%B2+ajax_t21sc03_1+encodeURIComponent&ved=1t:220175&ictx=111
+          - listitem [ref=f21e108]:
+            - link "短片" [ref=f21e109] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntVOcHIsSYKNcRTTt2S9toG0F19PA:1791983071561&udm=39&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fOgk4t2BtnPd-mbK7HpyKiDDvV0cT7SH8sm5WzLy3ogL90N80G39Ws1rfSvqoq4v4Im9SUFHXsmhzqvcELriwI7hvsLMnFy_v-FLtQJUWKCFVwjMbL3X0uo0685-CNjNkt31rbSoegtjWBovmnaDabo801vP&q=MOPS+%E6%9C%88%E7%87%9F%E6%94%B6+%E6%AD%B7%E5%8F%B2+ajax_t21sc03_1+encodeURIComponent&sa=X&ved=2ahUKEwjtv7GTybmXAxV6dusIHTgqIh8Qs6gLegQIFhAB
+          - listitem [ref=f21e112]:
+            - button [ref=f21e113] [cursor=pointer]:
+              - generic "更多篩選條件" [ref=f21e114]: 更多
+        - button "工具" [ref=f21e121] [cursor=pointer]
+    - heading "搜尋結果" [level=1] [ref=f21e128]
+    - generic [ref=f21e133]:
+      - generic [ref=f21e152]:
+        - heading "思考中" [level=2] [ref=f21e156]
+        - progressbar "產生中" [ref=f21e159]
+      - main [ref=f21e161]:
+        - generic [ref=f21e165]:
+          - generic [ref=f21e168]:
+            - heading "網頁搜尋結果" [level=2] [ref=f21e169]
+            - generic [ref=f21e170]:
+              - generic [ref=f21e173]:
+                - link "公開資訊觀測站MOPS - Maintainance 443 TWSE 臺灣證券交易所 https://mopsov.twse.com.tw › mops › web" [ref=f21e175] [cursor=pointer]:
+                  - /url: /goto?url=CAESZAHrOzAVlkZkRfBzlXbqB3fsEYt59CjMBcQD0CB4pWFQFE5Q0BJCo_007YGbrwEtx6H41q3_v2VW1S_33VrF_-SfJy2Mb0AOuNI2KC0Utn7gjT13Zg2YTVLxgV8jLDnoUM4mCJc
+                  - heading "公開資訊觀測站MOPS - Maintainance 443" [level=3] [ref=f21e176]
+                  - generic [ref=f21e185]:
+                    - generic [ref=f21e186]: TWSE 臺灣證券交易所
+                    - generic [ref=f21e188]: https://mopsov.twse.com.tw › mops › web
+                - button "進一步瞭解這項結果" [ref=f21e194] [cursor=pointer]
+              - generic [ref=f21e199]:
+                - generic [ref=f21e200]: 沒有這個頁面的資訊。
+                - link "瞭解原因" [ref=f21e202] [cursor=pointer]:
+                  - /url: https://support.google.com/webmasters/answer/7489871?hl=zh
+              - generic [ref=f21e203]: 缺少字詞： 歷史 ‎ajax_t21sc03_1 ‎encodeURIComponent
+          - generic [ref=f21e208]:
+            - generic [ref=f21e211]:
+              - link "證交所公開資訊觀測站-每月營收彙總表 政府資料開放 https://data.gov.tw › applications" [ref=f21e213] [cursor=pointer]:
+                - /url: /goto?url=CAESYgHrOzAVnDB-EENq6MIfYCWZFv545fm3rA4NXCi9WXIiEVJQ-Pp8lq4ynIPEel_oHdZphCuTQh_iJOsatFBZcXRNRDtdtrF-2uqs-R2KHVddy1g-dQUa_SEe8pxQP2VtI1VH
+                - heading "證交所公開資訊觀測站-每月營收彙總表" [level=3] [ref=f21e214]
+                - generic [ref=f21e220]:
+                  - generic [ref=f21e221]: 政府資料開放
+                  - generic [ref=f21e223]: https://data.gov.tw › applications
+              - button "進一步瞭解這項結果" [ref=f21e229] [cursor=pointer]
+            - generic [ref=f21e236]:
+              - text: 提供查詢所有國內上市公司每
+              - emphasis [ref=f21e237]: 月營收
+              - text: 之資訊。
+            - generic [ref=f21e238]: 缺少字詞： ajax_t21sc03_1 ‎encodeURIComponent
+          - generic [ref=f21e243]:
+            - generic [ref=f21e246]:
+              - link "超簡單用Python 抓取每月營收：30 行爬蟲下載全台股月營收 FinLab https://finlab.finance › 研究 › 價值與基本面" [ref=f21e248] [cursor=pointer]:
+                - /url: /goto?url=CAEScwHrOzAVKlrq6zsntRHgBq0Sot_aCDERwI-ceLSkRJbzYUfyAWY-yt-mgwgacKcFiPObPn6OaUDtJUGvLzVTyJqo7PDSjnjvTAM_FNTrR3WIG9jfR6ekRBWIxBwAl7CPNUcss9fWdtx04-PRg9unT9iEVY4
+                - heading "超簡單用Python 抓取每月營收：30 行爬蟲下載全台股月營收" [level=3] [ref=f21e249]
+                - generic [ref=f21e255]:
+                  - generic [ref=f21e256]: FinLab
+                  - generic [ref=f21e258]: https://finlab.finance › 研究 › 價值與基本面
+              - button "進一步瞭解這項結果" [ref=f21e264] [cursor=pointer]
+            - generic [ref=f21e270]:
+              - generic [ref=f21e271]: 2020年7月21日 —
+              - generic [ref=f21e272]:
+                - text: 30 行Python 爬蟲就能從TWSE 公開資訊觀測站下載全台股每
+                - emphasis [ref=f21e273]: 月營收
+                - text: ，支援民國與西元年份切換，附完整monthly_report 函式與BIG5 編碼處理、偽瀏覽 ...
+          - generic [ref=f21e277]:
+            - generic [ref=f21e280]:
+              - link "爬蟲實作-TWSE公開資料觀測站 HackMD https://hackmd.io › SkZzmInBa" [ref=f21e282] [cursor=pointer]:
+                - /url: /goto?url=CAESXwHrOzAVeDAPLCmHjsWJLvqTTWxU1d6o8oDHXW_ZElwi9CpZmkFMq1R5tvoV7cDp0K0M3J4JV1F9CdR9D0bTYeHdnh09BKWFzZsshxbpz-PXgyeZ-m_USAzm0bGnTTtx
+                - heading "爬蟲實作-TWSE公開資料觀測站" [level=3] [ref=f21e283]
+                - generic [ref=f21e289]:
+                  - generic [ref=f21e290]: HackMD
+                  - generic [ref=f21e292]: https://hackmd.io › SkZzmInBa
+              - button "進一步瞭解這項結果" [ref=f21e298] [cursor=pointer]
+            - generic [ref=f21e304]:
+              - generic [ref=f21e305]: 2024年5月10日 —
+              - generic [ref=f21e306]:
+                - text: 1. 解析網址特性，參數化. 我們可以透過網址觀察https://
+                - emphasis [ref=f21e307]: mops
+                - text: .twse.com.tw/nas/t21/sii/t21sc03_111_2_0.
+          - generic [ref=f21e311]:
+            - generic [ref=f21e314]:
+              - link "Go TWSE 臺灣證券交易所 https://mops.twse.com.tw › mops › web" [ref=f21e316] [cursor=pointer]:
+                - /url: /goto?url=CAESaQHrOzAVHyWSXPwcuFxHdI1G04S-uRQLb0BH_qxEQYCgElOM6CzhFQNQHWwA9BqDONxJXWlH6Vdgv72Oe3O6k9WSTDpLvFZPLEYgtEvg9RGRqEWb11Ek3UCJG5lc9-ofWLBVciVc_TWF6A
+                - heading "Go" [level=3] [ref=f21e317]
+                - generic [ref=f21e326]:
+                  - generic [ref=f21e327]: TWSE 臺灣證券交易所
+                  - generic [ref=f21e329]: https://mops.twse.com.tw › mops › web
+              - button "進一步瞭解這項結果" [ref=f21e335] [cursor=pointer]
+            - generic [ref=f21e340]: 您可以回上一頁繼續其他動作，或撥打以下電話通報問題：(02)8101-5840, (02)8101-5834。 YOU COULD GO BACK TO PREVIOUS PAGE OR CALL US FOR FURTHER HELP：(02)8101-5840 ...
+            - generic [ref=f21e342]: 缺少字詞： 歷史 ‎ajax_t21sc03_1 ‎encodeURIComponent
+          - generic [ref=f21e348]:
+            - heading "相關問題" [level=2] [ref=f21e350]
+            - generic [ref=f21e351]:
+              - button "如何查詢公司月營收?" [ref=f21e357] [cursor=pointer]
+              - button "如何查詢公開資訊觀測站?" [ref=f21e371] [cursor=pointer]
+              - button "請問財報觀測站在哪裡可以找到?" [ref=f21e385] [cursor=pointer]
+              - button "如何查詢上市櫃公司的財報?" [ref=f21e399] [cursor=pointer]
+        - generic [ref=f21e408]:
+          - generic [ref=f21e409]:
+            - heading "篩選結果相關聲明" [level=2] [ref=f21e410]
+            - paragraph [ref=f21e412]:
+              - generic [ref=f21e413]:
+                - text: 為了提供關聯性最高的搜尋結果，我們省略了部分與先前 5 筆已經顯示過的結果非常類似的項目。如有需要，您可以
+                - link "重新執行搜尋並顯示所有結果" [ref=f21e414] [cursor=pointer]:
+                  - /url: /search?q=MOPS+%E6%9C%88%E7%87%9F%E6%94%B6+%E6%AD%B7%E5%8F%B2+ajax_t21sc03_1+encodeURIComponent&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntVOcHIsSYKNcRTTt2S9toG0F19PA:1791983071561&filter=0
+                - text: 。
+          - navigation
+        - navigation
+    - contentinfo [ref=f21e415]:
+      - heading "頁尾連結" [level=1] [ref=f21e416]
+      - generic [ref=f21e420]:
+        - generic [ref=f21e422]:
+          - text: 台灣
+          - generic [ref=f21e424]:
+            - button "220 新北市板橋區 - 根據你的 IP 位址" [ref=f21e426] [cursor=pointer]:
+              - generic [ref=f21e427]: 220 新北市板橋區
+              - generic [ref=f21e429]:
+                - text: "-"
+                - generic [ref=f21e430]: 根據你的 IP 位址
+            - text: "-"
+            - button "更新位置" [ref=f21e432] [cursor=pointer]
+        - generic [ref=f21e435]:
+          - link "說明" [ref=f21e436] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=zh-TW&fg=1
+          - button "提供意見" [ref=f21e438] [cursor=pointer]
+          - link "隱私權" [ref=f21e440] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=zh-TW&fg=1
+          - link "服務條款" [ref=f21e441] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=zh-TW&fg=1

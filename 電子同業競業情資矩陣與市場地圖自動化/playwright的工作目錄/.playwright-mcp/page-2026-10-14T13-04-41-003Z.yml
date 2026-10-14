@@ -1,0 +1,1362 @@
+- generic [ref=f27e3]:
+  - generic [ref=f27e6]:
+    - generic [ref=f27e43]:
+      - textbox [ref=f27e44]: https://openapi.twse.com.tw/v1/swagger.json
+      - button "Explore" [ref=f27e45] [cursor=pointer]
+    - button [ref=f27e47] [cursor=pointer]
+  - generic [ref=f27e51]:
+    - generic [ref=f27e55]:
+      - generic [ref=f27e56]:
+        - heading "臺灣證券交易所 OpenAPI 1.0 OAS 2.0" [level=1] [ref=f27e57]:
+          - text: 臺灣證券交易所 OpenAPI
+          - generic [ref=f27e58]:
+            - generic [ref=f27e59]: "1.0"
+            - generic [ref=f27e61]: OAS 2.0
+        - generic [ref=f27e63]: "[ Base URL: openapi.twse.com.tw/v1 ]"
+        - link "https://openapi.twse.com.tw/v1/swagger.json" [ref=f27e64] [cursor=pointer]:
+          - /url: https://openapi.twse.com.tw/v1/swagger.json
+      - paragraph [ref=f27e68]:
+        - text: 本平臺提供臺灣證券交易所服務API，歡迎各位介接使用。
+        - link "使用條款" [ref=f27e69] [cursor=pointer]:
+          - /url: https://www.twse.com.tw/zh/page/terms/use.html
+        - link "授權說明網址" [ref=f27e70] [cursor=pointer]:
+          - /url: https://data.gov.tw/license
+    - generic [ref=f27e74]:
+      - generic [ref=f27e75]: Schemes
+      - combobox "Schemes" [ref=f27e76]:
+        - option "https" [selected]
+    - generic [ref=f27e79]:
+      - generic [ref=f27e81]:
+        - heading [level=3] [ref=f27e82] [cursor=pointer]:
+          - link "公司治理" [ref=f27e83]:
+            - /url: "#/公司治理"
+          - button "Collapse operation" [expanded] [ref=f27e84]
+        - generic [ref=f27e88]:
+          - generic [ref=f27e91] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_21 上市公司企業ESG資訊揭露彙總資料-職業安全衛生" [ref=f27e92]:
+              - generic [ref=f27e93]: GET
+              - generic [ref=f27e94]:
+                - link "/opendata/t187ap46_L_21" [ref=f27e96]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_21"
+                - generic [ref=f27e98]: 上市公司企業ESG資訊揭露彙總資料-職業安全衛生
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_21" [ref=f27e101]
+          - generic [ref=f27e106] [cursor=pointer]:
+            - button "GET /opendata/t187ap45_L 上市公司股利分派情形" [ref=f27e107]:
+              - generic [ref=f27e108]: GET
+              - generic [ref=f27e109]:
+                - link "/opendata/t187ap45_L" [ref=f27e111]:
+                  - /url: "#/公司治理/get_opendata_t187ap45_L"
+                - generic [ref=f27e113]: 上市公司股利分派情形
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap45_L" [ref=f27e116]
+          - generic [ref=f27e121] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_20 上市公司企業ESG資訊揭露彙總資料-反競爭行為法律訴訟" [ref=f27e122]:
+              - generic [ref=f27e123]: GET
+              - generic [ref=f27e124]:
+                - link "/opendata/t187ap46_L_20" [ref=f27e126]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_20"
+                - generic [ref=f27e128]: 上市公司企業ESG資訊揭露彙總資料-反競爭行為法律訴訟
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_20" [ref=f27e131]
+          - generic [ref=f27e136] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_19 上市公司企業ESG資訊揭露彙總資料-風險管理政策" [ref=f27e137]:
+              - generic [ref=f27e138]: GET
+              - generic [ref=f27e139]:
+                - link "/opendata/t187ap46_L_19" [ref=f27e141]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_19"
+                - generic [ref=f27e143]: 上市公司企業ESG資訊揭露彙總資料-風險管理政策
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_19" [ref=f27e146]
+          - generic [ref=f27e151] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_18 上市公司企業ESG資訊揭露彙總資料-持股及控制力" [ref=f27e152]:
+              - generic [ref=f27e153]: GET
+              - generic [ref=f27e154]:
+                - link "/opendata/t187ap46_L_18" [ref=f27e156]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_18"
+                - generic [ref=f27e158]: 上市公司企業ESG資訊揭露彙總資料-持股及控制力
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_18" [ref=f27e161]
+          - generic [ref=f27e166] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_17 上市公司企業ESG資訊揭露彙總資料-普惠金融" [ref=f27e167]:
+              - generic [ref=f27e168]: GET
+              - generic [ref=f27e169]:
+                - link "/opendata/t187ap46_L_17" [ref=f27e171]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_17"
+                - generic [ref=f27e173]: 上市公司企業ESG資訊揭露彙總資料-普惠金融
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_17" [ref=f27e176]
+          - generic [ref=f27e181] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_16 上市公司企業ESG資訊揭露彙總資料-資訊安全" [ref=f27e182]:
+              - generic [ref=f27e183]: GET
+              - generic [ref=f27e184]:
+                - link "/opendata/t187ap46_L_16" [ref=f27e186]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_16"
+                - generic [ref=f27e188]: 上市公司企業ESG資訊揭露彙總資料-資訊安全
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_16" [ref=f27e191]
+          - generic [ref=f27e196] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_15 上市公司企業ESG資訊揭露彙總資料-社區關係" [ref=f27e197]:
+              - generic [ref=f27e198]: GET
+              - generic [ref=f27e199]:
+                - link "/opendata/t187ap46_L_15" [ref=f27e201]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_15"
+                - generic [ref=f27e203]: 上市公司企業ESG資訊揭露彙總資料-社區關係
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_15" [ref=f27e206]
+          - generic [ref=f27e211] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_14 上市公司企業ESG資訊揭露彙總資料-產品品質與安全" [ref=f27e212]:
+              - generic [ref=f27e213]: GET
+              - generic [ref=f27e214]:
+                - link "/opendata/t187ap46_L_14" [ref=f27e216]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_14"
+                - generic [ref=f27e218]: 上市公司企業ESG資訊揭露彙總資料-產品品質與安全
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_14" [ref=f27e221]
+          - generic [ref=f27e226] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_13 上市公司企業ESG資訊揭露彙總資料-供應鏈管理" [ref=f27e227]:
+              - generic [ref=f27e228]: GET
+              - generic [ref=f27e229]:
+                - link "/opendata/t187ap46_L_13" [ref=f27e231]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_13"
+                - generic [ref=f27e233]: 上市公司企業ESG資訊揭露彙總資料-供應鏈管理
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_13" [ref=f27e236]
+          - generic [ref=f27e241] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_12 上市公司企業ESG資訊揭露彙總資料-食品安全" [ref=f27e242]:
+              - generic [ref=f27e243]: GET
+              - generic [ref=f27e244]:
+                - link "/opendata/t187ap46_L_12" [ref=f27e246]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_12"
+                - generic [ref=f27e248]: 上市公司企業ESG資訊揭露彙總資料-食品安全
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_12" [ref=f27e251]
+          - generic [ref=f27e256] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_11 上市公司企業ESG資訊揭露彙總資料-產品生命週期" [ref=f27e257]:
+              - generic [ref=f27e258]: GET
+              - generic [ref=f27e259]:
+                - link "/opendata/t187ap46_L_11" [ref=f27e261]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_11"
+                - generic [ref=f27e263]: 上市公司企業ESG資訊揭露彙總資料-產品生命週期
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_11" [ref=f27e266]
+          - generic [ref=f27e271] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_10 上市公司企業ESG資訊揭露彙總資料-燃料管理" [ref=f27e272]:
+              - generic [ref=f27e273]: GET
+              - generic [ref=f27e274]:
+                - link "/opendata/t187ap46_L_10" [ref=f27e276]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_10"
+                - generic [ref=f27e278]: 上市公司企業ESG資訊揭露彙總資料-燃料管理
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_10" [ref=f27e281]
+          - generic [ref=f27e286] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_9 上市公司企業ESG資訊揭露彙總資料-功能性委員會" [ref=f27e287]:
+              - generic [ref=f27e288]: GET
+              - generic [ref=f27e289]:
+                - link "/opendata/t187ap46_L_9" [ref=f27e291]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_9"
+                - generic [ref=f27e293]: 上市公司企業ESG資訊揭露彙總資料-功能性委員會
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_9" [ref=f27e296]
+          - generic [ref=f27e301] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_8 上市公司企業ESG資訊揭露彙總資料-氣候相關議題管理" [ref=f27e302]:
+              - generic [ref=f27e303]: GET
+              - generic [ref=f27e304]:
+                - link "/opendata/t187ap46_L_8" [ref=f27e306]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_8"
+                - generic [ref=f27e308]: 上市公司企業ESG資訊揭露彙總資料-氣候相關議題管理
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_8" [ref=f27e311]
+          - generic [ref=f27e316] [cursor=pointer]:
+            - button "GET /opendata/t187ap05_P 公開發行公司每月營業收入彙總表" [ref=f27e317]:
+              - generic [ref=f27e318]: GET
+              - generic [ref=f27e319]:
+                - link "/opendata/t187ap05_P" [ref=f27e321]:
+                  - /url: "#/公司治理/get_opendata_t187ap05_P"
+                - generic [ref=f27e323]: 公開發行公司每月營業收入彙總表
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap05_P" [ref=f27e326]
+          - generic [ref=f27e331] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_7 上市公司企業ESG資訊揭露彙總資料-投資人溝通" [ref=f27e332]:
+              - generic [ref=f27e333]: GET
+              - generic [ref=f27e334]:
+                - link "/opendata/t187ap46_L_7" [ref=f27e336]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_7"
+                - generic [ref=f27e338]: 上市公司企業ESG資訊揭露彙總資料-投資人溝通
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_7" [ref=f27e341]
+          - generic [ref=f27e346] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_6 上市公司企業ESG資訊揭露彙總資料-董事會" [ref=f27e347]:
+              - generic [ref=f27e348]: GET
+              - generic [ref=f27e349]:
+                - link "/opendata/t187ap46_L_6" [ref=f27e351]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_6"
+                - generic [ref=f27e353]: 上市公司企業ESG資訊揭露彙總資料-董事會
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_6" [ref=f27e356]
+          - generic [ref=f27e361] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_5 上市公司企業ESG資訊揭露彙總資料-人力發展" [ref=f27e362]:
+              - generic [ref=f27e363]: GET
+              - generic [ref=f27e364]:
+                - link "/opendata/t187ap46_L_5" [ref=f27e366]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_5"
+                - generic [ref=f27e368]: 上市公司企業ESG資訊揭露彙總資料-人力發展
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_5" [ref=f27e371]
+          - generic [ref=f27e376] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_4 上市公司企業ESG資訊揭露彙總資料-廢棄物管理" [ref=f27e377]:
+              - generic [ref=f27e378]: GET
+              - generic [ref=f27e379]:
+                - link "/opendata/t187ap46_L_4" [ref=f27e381]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_4"
+                - generic [ref=f27e383]: 上市公司企業ESG資訊揭露彙總資料-廢棄物管理
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_4" [ref=f27e386]
+          - generic [ref=f27e391] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_3 上市公司企業ESG資訊揭露彙總資料-水資源管理" [ref=f27e392]:
+              - generic [ref=f27e393]: GET
+              - generic [ref=f27e394]:
+                - link "/opendata/t187ap46_L_3" [ref=f27e396]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_3"
+                - generic [ref=f27e398]: 上市公司企業ESG資訊揭露彙總資料-水資源管理
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_3" [ref=f27e401]
+          - generic [ref=f27e406] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_2 上市公司企業ESG資訊揭露彙總資料-能源管理" [ref=f27e407]:
+              - generic [ref=f27e408]: GET
+              - generic [ref=f27e409]:
+                - link "/opendata/t187ap46_L_2" [ref=f27e411]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_2"
+                - generic [ref=f27e413]: 上市公司企業ESG資訊揭露彙總資料-能源管理
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_2" [ref=f27e416]
+          - generic [ref=f27e421] [cursor=pointer]:
+            - button "GET /opendata/t187ap46_L_1 上市公司企業ESG資訊揭露彙總資料-溫室氣體排放" [ref=f27e422]:
+              - generic [ref=f27e423]: GET
+              - generic [ref=f27e424]:
+                - link "/opendata/t187ap46_L_1" [ref=f27e426]:
+                  - /url: "#/公司治理/get_opendata_t187ap46_L_1"
+                - generic [ref=f27e428]: 上市公司企業ESG資訊揭露彙總資料-溫室氣體排放
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap46_L_1" [ref=f27e431]
+          - generic [ref=f27e436] [cursor=pointer]:
+            - button "GET /company/applylistingForeign 外國公司向證交所申請第一上市之公司" [ref=f27e437]:
+              - generic [ref=f27e438]: GET
+              - generic [ref=f27e439]:
+                - link "/company/applylistingForeign" [ref=f27e441]:
+                  - /url: "#/公司治理/get_company_applylistingForeign"
+                - generic [ref=f27e443]: 外國公司向證交所申請第一上市之公司
+            - generic "Copy to clipboard"
+            - button "get /company/applylistingForeign" [ref=f27e446]
+          - generic [ref=f27e451] [cursor=pointer]:
+            - button "GET /company/newlisting 最近上市公司" [ref=f27e452]:
+              - generic [ref=f27e453]: GET
+              - generic [ref=f27e454]:
+                - link "/company/newlisting" [ref=f27e456]:
+                  - /url: "#/公司治理/get_company_newlisting"
+                - generic [ref=f27e458]: 最近上市公司
+            - generic "Copy to clipboard"
+            - button "get /company/newlisting" [ref=f27e461]
+          - generic [ref=f27e466] [cursor=pointer]:
+            - button "GET /company/suspendListingCsvAndHtml 終止上市公司" [ref=f27e467]:
+              - generic [ref=f27e468]: GET
+              - generic [ref=f27e469]:
+                - link "/company/suspendListingCsvAndHtml" [ref=f27e471]:
+                  - /url: "#/公司治理/get_company_suspendListingCsvAndHtml"
+                - generic [ref=f27e473]: 終止上市公司
+            - generic "Copy to clipboard"
+            - button "get /company/suspendListingCsvAndHtml" [ref=f27e476]
+          - generic [ref=f27e481] [cursor=pointer]:
+            - button "GET /company/applylistingLocal 申請上市之本國公司" [ref=f27e482]:
+              - generic [ref=f27e483]: GET
+              - generic [ref=f27e484]:
+                - link "/company/applylistingLocal" [ref=f27e486]:
+                  - /url: "#/公司治理/get_company_applylistingLocal"
+                - generic [ref=f27e488]: 申請上市之本國公司
+            - generic "Copy to clipboard"
+            - button "get /company/applylistingLocal" [ref=f27e491]
+          - generic [ref=f27e496] [cursor=pointer]:
+            - button "GET /opendata/t187ap04_L 上市公司每日重大訊息" [ref=f27e497]:
+              - generic [ref=f27e498]: GET
+              - generic [ref=f27e499]:
+                - link "/opendata/t187ap04_L" [ref=f27e501]:
+                  - /url: "#/公司治理/get_opendata_t187ap04_L"
+                - generic [ref=f27e503]: 上市公司每日重大訊息
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap04_L" [ref=f27e506]
+          - generic [ref=f27e511] [cursor=pointer]:
+            - button "GET /opendata/t187ap03_L 上市公司基本資料" [ref=f27e512]:
+              - generic [ref=f27e513]: GET
+              - generic [ref=f27e514]:
+                - link "/opendata/t187ap03_L" [ref=f27e516]:
+                  - /url: "#/公司治理/get_opendata_t187ap03_L"
+                - generic [ref=f27e518]: 上市公司基本資料
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap03_L" [ref=f27e521]
+          - generic [ref=f27e526] [cursor=pointer]:
+            - button "GET /opendata/t187ap02_L 上市公司持股逾 10% 大股東名單" [ref=f27e527]:
+              - generic [ref=f27e528]: GET
+              - generic [ref=f27e529]:
+                - link "/opendata/t187ap02_L" [ref=f27e531]:
+                  - /url: "#/公司治理/get_opendata_t187ap02_L"
+                - generic [ref=f27e533]: 上市公司持股逾 10% 大股東名單
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap02_L" [ref=f27e536]
+          - generic [ref=f27e541] [cursor=pointer]:
+            - button "GET /opendata/t187ap14_L 上市公司各產業EPS統計資訊" [ref=f27e542]:
+              - generic [ref=f27e543]: GET
+              - generic [ref=f27e544]:
+                - link "/opendata/t187ap14_L" [ref=f27e546]:
+                  - /url: "#/公司治理/get_opendata_t187ap14_L"
+                - generic [ref=f27e548]: 上市公司各產業EPS統計資訊
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap14_L" [ref=f27e551]
+          - generic [ref=f27e556] [cursor=pointer]:
+            - button "GET /opendata/t187ap08_L 上市公司董事、監察人持股不足法定成數彙總表" [ref=f27e557]:
+              - generic [ref=f27e558]: GET
+              - generic [ref=f27e559]:
+                - link "/opendata/t187ap08_L" [ref=f27e561]:
+                  - /url: "#/公司治理/get_opendata_t187ap08_L"
+                - generic [ref=f27e563]: 上市公司董事、監察人持股不足法定成數彙總表
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap08_L" [ref=f27e566]
+          - generic [ref=f27e571] [cursor=pointer]:
+            - button "GET /opendata/t187ap11_L 上市公司董監事持股餘額明細資料" [ref=f27e572]:
+              - generic [ref=f27e573]: GET
+              - generic [ref=f27e574]:
+                - link "/opendata/t187ap11_L" [ref=f27e576]:
+                  - /url: "#/公司治理/get_opendata_t187ap11_L"
+                - generic [ref=f27e578]: 上市公司董監事持股餘額明細資料
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap11_L" [ref=f27e581]
+          - generic [ref=f27e586] [cursor=pointer]:
+            - button "GET /opendata/t187ap12_L 上市公司每日內部人持股轉讓事前申報表-持股轉讓日報表" [ref=f27e587]:
+              - generic [ref=f27e588]: GET
+              - generic [ref=f27e589]:
+                - link "/opendata/t187ap12_L" [ref=f27e591]:
+                  - /url: "#/公司治理/get_opendata_t187ap12_L"
+                - generic [ref=f27e593]: 上市公司每日內部人持股轉讓事前申報表-持股轉讓日報表
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap12_L" [ref=f27e596]
+          - generic [ref=f27e601] [cursor=pointer]:
+            - button "GET /opendata/t187ap13_L 上市公司每日內部人持股轉讓事前申報表-持股未轉讓日報表" [ref=f27e602]:
+              - generic [ref=f27e603]: GET
+              - generic [ref=f27e604]:
+                - link "/opendata/t187ap13_L" [ref=f27e606]:
+                  - /url: "#/公司治理/get_opendata_t187ap13_L"
+                - generic [ref=f27e608]: 上市公司每日內部人持股轉讓事前申報表-持股未轉讓日報表
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap13_L" [ref=f27e611]
+          - generic [ref=f27e616] [cursor=pointer]:
+            - button "GET /opendata/t187ap22_L 上市公司金管會證券期貨局裁罰案件專區" [ref=f27e617]:
+              - generic [ref=f27e618]: GET
+              - generic [ref=f27e619]:
+                - link "/opendata/t187ap22_L" [ref=f27e621]:
+                  - /url: "#/公司治理/get_opendata_t187ap22_L"
+                - generic [ref=f27e623]: 上市公司金管會證券期貨局裁罰案件專區
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap22_L" [ref=f27e626]
+          - generic [ref=f27e631] [cursor=pointer]:
+            - button "GET /opendata/t187ap30_L 上市公司獨立董監事兼任情形彙總表" [ref=f27e632]:
+              - generic [ref=f27e633]: GET
+              - generic [ref=f27e634]:
+                - link "/opendata/t187ap30_L" [ref=f27e636]:
+                  - /url: "#/公司治理/get_opendata_t187ap30_L"
+                - generic [ref=f27e638]: 上市公司獨立董監事兼任情形彙總表
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap30_L" [ref=f27e641]
+          - generic [ref=f27e646] [cursor=pointer]:
+            - button "GET /opendata/t187ap29_A_L 上市公司董事酬金相關資訊" [ref=f27e647]:
+              - generic [ref=f27e648]: GET
+              - generic [ref=f27e649]:
+                - link "/opendata/t187ap29_A_L" [ref=f27e651]:
+                  - /url: "#/公司治理/get_opendata_t187ap29_A_L"
+                - generic [ref=f27e653]: 上市公司董事酬金相關資訊
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap29_A_L" [ref=f27e656]
+          - generic [ref=f27e661] [cursor=pointer]:
+            - button "GET /opendata/t187ap29_B_L 上市公司監察人酬金相關資訊" [ref=f27e662]:
+              - generic [ref=f27e663]: GET
+              - generic [ref=f27e664]:
+                - link "/opendata/t187ap29_B_L" [ref=f27e666]:
+                  - /url: "#/公司治理/get_opendata_t187ap29_B_L"
+                - generic [ref=f27e668]: 上市公司監察人酬金相關資訊
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap29_B_L" [ref=f27e671]
+          - generic [ref=f27e676] [cursor=pointer]:
+            - button "GET /opendata/t187ap29_C_L 上市公司合併報表董事酬金相關資訊" [ref=f27e677]:
+              - generic [ref=f27e678]: GET
+              - generic [ref=f27e679]:
+                - link "/opendata/t187ap29_C_L" [ref=f27e681]:
+                  - /url: "#/公司治理/get_opendata_t187ap29_C_L"
+                - generic [ref=f27e683]: 上市公司合併報表董事酬金相關資訊
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap29_C_L" [ref=f27e686]
+          - generic [ref=f27e691] [cursor=pointer]:
+            - button "GET /opendata/t187ap29_D_L 上市公司合併報表監察人酬金相關資訊" [ref=f27e692]:
+              - generic [ref=f27e693]: GET
+              - generic [ref=f27e694]:
+                - link "/opendata/t187ap29_D_L" [ref=f27e696]:
+                  - /url: "#/公司治理/get_opendata_t187ap29_D_L"
+                - generic [ref=f27e698]: 上市公司合併報表監察人酬金相關資訊
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap29_D_L" [ref=f27e701]
+          - generic [ref=f27e706] [cursor=pointer]:
+            - button "GET /opendata/t187ap23_L 上市公司違反資訊申報、重大訊息及說明記者會規定專區" [ref=f27e707]:
+              - generic [ref=f27e708]: GET
+              - generic [ref=f27e709]:
+                - link "/opendata/t187ap23_L" [ref=f27e711]:
+                  - /url: "#/公司治理/get_opendata_t187ap23_L"
+                - generic [ref=f27e713]: 上市公司違反資訊申報、重大訊息及說明記者會規定專區
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap23_L" [ref=f27e716]
+          - generic [ref=f27e721] [cursor=pointer]:
+            - button "GET /opendata/t187ap03_P 公開發行公司基本資料" [ref=f27e722]:
+              - generic [ref=f27e723]: GET
+              - generic [ref=f27e724]:
+                - link "/opendata/t187ap03_P" [ref=f27e726]:
+                  - /url: "#/公司治理/get_opendata_t187ap03_P"
+                - generic [ref=f27e728]: 公開發行公司基本資料
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap03_P" [ref=f27e731]
+          - generic [ref=f27e736] [cursor=pointer]:
+            - button "GET /announcement/punish 集中市場公布處置股票" [ref=f27e737]:
+              - generic [ref=f27e738]: GET
+              - generic [ref=f27e739]:
+                - link "/announcement/punish" [ref=f27e741]:
+                  - /url: "#/公司治理/get_announcement_punish"
+                - generic [ref=f27e743]: 集中市場公布處置股票
+            - generic "Copy to clipboard"
+            - button "get /announcement/punish" [ref=f27e746]
+          - generic [ref=f27e751] [cursor=pointer]:
+            - button "GET /opendata/t187ap10_L 上市公司董事、監察人持股不足法定成數連續達3個月以上彙總表" [ref=f27e752]:
+              - generic [ref=f27e753]: GET
+              - generic [ref=f27e754]:
+                - link "/opendata/t187ap10_L" [ref=f27e756]:
+                  - /url: "#/公司治理/get_opendata_t187ap10_L"
+                - generic [ref=f27e758]: 上市公司董事、監察人持股不足法定成數連續達3個月以上彙總表
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap10_L" [ref=f27e761]
+          - generic [ref=f27e766] [cursor=pointer]:
+            - button "GET /opendata/t187ap38_L 上市公司股東會公告-召集股東常(臨時)會公告資料彙總表(95年度起適用)" [ref=f27e767]:
+              - generic [ref=f27e768]: GET
+              - generic [ref=f27e769]:
+                - link "/opendata/t187ap38_L" [ref=f27e771]:
+                  - /url: "#/公司治理/get_opendata_t187ap38_L"
+                - generic [ref=f27e773]: 上市公司股東會公告-召集股東常(臨時)會公告資料彙總表(95年度起適用)
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap38_L" [ref=f27e776]
+          - generic [ref=f27e781] [cursor=pointer]:
+            - button "GET /opendata/t187ap24_L 上市公司經營權及營業範圍異(變)動專區-經營權異動公司" [ref=f27e782]:
+              - generic [ref=f27e783]: GET
+              - generic [ref=f27e784]:
+                - link "/opendata/t187ap24_L" [ref=f27e786]:
+                  - /url: "#/公司治理/get_opendata_t187ap24_L"
+                - generic [ref=f27e788]: 上市公司經營權及營業範圍異(變)動專區-經營權異動公司
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap24_L" [ref=f27e791]
+          - generic [ref=f27e796] [cursor=pointer]:
+            - button "GET /opendata/t187ap26_L 上市公司經營權及營業範圍異(變)動專區-經營權異動且營業範圍重大變更停止買賣公司" [ref=f27e797]:
+              - generic [ref=f27e798]: GET
+              - generic [ref=f27e799]:
+                - link "/opendata/t187ap26_L" [ref=f27e801]:
+                  - /url: "#/公司治理/get_opendata_t187ap26_L"
+                - generic [ref=f27e803]: 上市公司經營權及營業範圍異(變)動專區-經營權異動且營業範圍重大變更停止買賣公司
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap26_L" [ref=f27e806]
+          - generic [ref=f27e811] [cursor=pointer]:
+            - button "GET /opendata/t187ap41_L 上市公司召開股東常 (臨時) 會日期、地點及採用電子投票情形等資料彙總表" [ref=f27e812]:
+              - generic [ref=f27e813]: GET
+              - generic [ref=f27e814]:
+                - link "/opendata/t187ap41_L" [ref=f27e816]:
+                  - /url: "#/公司治理/get_opendata_t187ap41_L"
+                - generic [ref=f27e818]: 上市公司召開股東常 (臨時) 會日期、地點及採用電子投票情形等資料彙總表
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap41_L" [ref=f27e821]
+          - generic [ref=f27e826] [cursor=pointer]:
+            - button "GET /opendata/t187ap25_L 上市公司經營權及營業範圍異(變)動專區-營業範圍重大變更公司" [ref=f27e827]:
+              - generic [ref=f27e828]: GET
+              - generic [ref=f27e829]:
+                - link "/opendata/t187ap25_L" [ref=f27e831]:
+                  - /url: "#/公司治理/get_opendata_t187ap25_L"
+                - generic [ref=f27e833]: 上市公司經營權及營業範圍異(變)動專區-營業範圍重大變更公司
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap25_L" [ref=f27e836]
+          - generic [ref=f27e841] [cursor=pointer]:
+            - button "GET /opendata/t187ap27_L 上市公司經營權及營業範圍異(變)動專區-經營權異動且營業範圍重大變更列為變更交易公司" [ref=f27e842]:
+              - generic [ref=f27e843]: GET
+              - generic [ref=f27e844]:
+                - link "/opendata/t187ap27_L" [ref=f27e846]:
+                  - /url: "#/公司治理/get_opendata_t187ap27_L"
+                - generic [ref=f27e848]: 上市公司經營權及營業範圍異(變)動專區-經營權異動且營業範圍重大變更列為變更交易公司
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap27_L" [ref=f27e851]
+          - generic [ref=f27e856] [cursor=pointer]:
+            - button "GET /opendata/t187ap32_L 上市公司公司治理之相關規程規則" [ref=f27e857]:
+              - generic [ref=f27e858]: GET
+              - generic [ref=f27e859]:
+                - link "/opendata/t187ap32_L" [ref=f27e861]:
+                  - /url: "#/公司治理/get_opendata_t187ap32_L"
+                - generic [ref=f27e863]: 上市公司公司治理之相關規程規則
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap32_L" [ref=f27e866]
+          - generic [ref=f27e871] [cursor=pointer]:
+            - button "GET /opendata/t187ap33_L 上市公司董事長是否兼任總經理" [ref=f27e872]:
+              - generic [ref=f27e873]: GET
+              - generic [ref=f27e874]:
+                - link "/opendata/t187ap33_L" [ref=f27e876]:
+                  - /url: "#/公司治理/get_opendata_t187ap33_L"
+                - generic [ref=f27e878]: 上市公司董事長是否兼任總經理
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap33_L" [ref=f27e881]
+          - generic [ref=f27e886] [cursor=pointer]:
+            - button "GET /opendata/t187ap09_L 上市公司董事、監察人質權設定占董事及監察人實際持有股數彙總表" [ref=f27e887]:
+              - generic [ref=f27e888]: GET
+              - generic [ref=f27e889]:
+                - link "/opendata/t187ap09_L" [ref=f27e891]:
+                  - /url: "#/公司治理/get_opendata_t187ap09_L"
+                - generic [ref=f27e893]: 上市公司董事、監察人質權設定占董事及監察人實際持有股數彙總表
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap09_L" [ref=f27e896]
+          - generic [ref=f27e901] [cursor=pointer]:
+            - button "GET /opendata/t187ap34_L 上市公司採累積投票制、全額連記法、候選人提名制選任董監事及當選資料彙總表" [ref=f27e902]:
+              - generic [ref=f27e903]: GET
+              - generic [ref=f27e904]:
+                - link "/opendata/t187ap34_L" [ref=f27e906]:
+                  - /url: "#/公司治理/get_opendata_t187ap34_L"
+                - generic [ref=f27e908]: 上市公司採累積投票制、全額連記法、候選人提名制選任董監事及當選資料彙總表
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap34_L" [ref=f27e911]
+          - generic [ref=f27e916] [cursor=pointer]:
+            - button "GET /opendata/t187ap35_L 上市公司股東行使提案權情形彙總表" [ref=f27e917]:
+              - generic [ref=f27e918]: GET
+              - generic [ref=f27e919]:
+                - link "/opendata/t187ap35_L" [ref=f27e921]:
+                  - /url: "#/公司治理/get_opendata_t187ap35_L"
+                - generic [ref=f27e923]: 上市公司股東行使提案權情形彙總表
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap35_L" [ref=f27e926]
+      - generic [ref=f27e930]:
+        - heading [level=3] [ref=f27e931] [cursor=pointer]:
+          - link "證券交易" [ref=f27e932]:
+            - /url: "#/證券交易"
+          - button "Collapse operation" [expanded] [ref=f27e933]
+        - generic [ref=f27e937]:
+          - generic [ref=f27e940] [cursor=pointer]:
+            - button "GET /exchangeReport/BWIBBU_ALL 上市個股日本益比、殖利率及股價淨值比（依代碼查詢）" [ref=f27e941]:
+              - generic [ref=f27e942]: GET
+              - generic [ref=f27e943]:
+                - link "/exchangeReport/BWIBBU_ALL" [ref=f27e945]:
+                  - /url: "#/證券交易/get_exchangeReport_BWIBBU_ALL"
+                - generic [ref=f27e947]: 上市個股日本益比、殖利率及股價淨值比（依代碼查詢）
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/BWIBBU_ALL" [ref=f27e950]
+          - generic [ref=f27e955] [cursor=pointer]:
+            - button "GET /exchangeReport/STOCK_DAY_AVG_ALL 上市個股日收盤價及月平均價" [ref=f27e956]:
+              - generic [ref=f27e957]: GET
+              - generic [ref=f27e958]:
+                - link "/exchangeReport/STOCK_DAY_AVG_ALL" [ref=f27e960]:
+                  - /url: "#/證券交易/get_exchangeReport_STOCK_DAY_AVG_ALL"
+                - generic [ref=f27e962]: 上市個股日收盤價及月平均價
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/STOCK_DAY_AVG_ALL" [ref=f27e965]
+          - generic [ref=f27e970] [cursor=pointer]:
+            - button "GET /exchangeReport/STOCK_DAY_ALL 上市個股日成交資訊" [ref=f27e971]:
+              - generic [ref=f27e972]: GET
+              - generic [ref=f27e973]:
+                - link "/exchangeReport/STOCK_DAY_ALL" [ref=f27e975]:
+                  - /url: "#/證券交易/get_exchangeReport_STOCK_DAY_ALL"
+                - generic [ref=f27e977]: 上市個股日成交資訊
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/STOCK_DAY_ALL" [ref=f27e980]
+          - generic [ref=f27e985] [cursor=pointer]:
+            - button "GET /exchangeReport/FMSRFK_ALL 上市個股月成交資訊" [ref=f27e986]:
+              - generic [ref=f27e987]: GET
+              - generic [ref=f27e988]:
+                - link "/exchangeReport/FMSRFK_ALL" [ref=f27e990]:
+                  - /url: "#/證券交易/get_exchangeReport_FMSRFK_ALL"
+                - generic [ref=f27e992]: 上市個股月成交資訊
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/FMSRFK_ALL" [ref=f27e995]
+          - generic [ref=f27e1000] [cursor=pointer]:
+            - button "GET /exchangeReport/FMNPTK_ALL 上市個股年成交資訊" [ref=f27e1001]:
+              - generic [ref=f27e1002]: GET
+              - generic [ref=f27e1003]:
+                - link "/exchangeReport/FMNPTK_ALL" [ref=f27e1005]:
+                  - /url: "#/證券交易/get_exchangeReport_FMNPTK_ALL"
+                - generic [ref=f27e1007]: 上市個股年成交資訊
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/FMNPTK_ALL" [ref=f27e1010]
+          - generic [ref=f27e1015] [cursor=pointer]:
+            - button "GET /exchangeReport/MI_INDEX 每日收盤行情-大盤統計資訊" [ref=f27e1016]:
+              - generic [ref=f27e1017]: GET
+              - generic [ref=f27e1018]:
+                - link "/exchangeReport/MI_INDEX" [ref=f27e1020]:
+                  - /url: "#/證券交易/get_exchangeReport_MI_INDEX"
+                - generic [ref=f27e1022]: 每日收盤行情-大盤統計資訊
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/MI_INDEX" [ref=f27e1025]
+          - generic [ref=f27e1030] [cursor=pointer]:
+            - button "GET /fund/MI_QFIIS_cat 集中市場外資及陸資投資類股持股比率表" [ref=f27e1031]:
+              - generic [ref=f27e1032]: GET
+              - generic [ref=f27e1033]:
+                - link "/fund/MI_QFIIS_cat" [ref=f27e1035]:
+                  - /url: "#/證券交易/get_fund_MI_QFIIS_cat"
+                - generic [ref=f27e1037]: 集中市場外資及陸資投資類股持股比率表
+            - generic "Copy to clipboard"
+            - button "get /fund/MI_QFIIS_cat" [ref=f27e1040]
+          - generic [ref=f27e1045] [cursor=pointer]:
+            - button "GET /fund/MI_QFIIS_sort_20 集中市場外資及陸資持股前 20 名彙總表" [ref=f27e1046]:
+              - generic [ref=f27e1047]: GET
+              - generic [ref=f27e1048]:
+                - link "/fund/MI_QFIIS_sort_20" [ref=f27e1050]:
+                  - /url: "#/證券交易/get_fund_MI_QFIIS_sort_20"
+                - generic [ref=f27e1052]: 集中市場外資及陸資持股前 20 名彙總表
+            - generic "Copy to clipboard"
+            - button "get /fund/MI_QFIIS_sort_20" [ref=f27e1055]
+          - generic [ref=f27e1060] [cursor=pointer]:
+            - button "GET /exchangeReport/TWT88U 上市個股首五日無漲跌幅" [ref=f27e1061]:
+              - generic [ref=f27e1062]: GET
+              - generic [ref=f27e1063]:
+                - link "/exchangeReport/TWT88U" [ref=f27e1065]:
+                  - /url: "#/證券交易/get_exchangeReport_TWT88U"
+                - generic [ref=f27e1067]: 上市個股首五日無漲跌幅
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/TWT88U" [ref=f27e1070]
+          - generic [ref=f27e1075] [cursor=pointer]:
+            - button "GET /Announcement/BFZFZU_T 投資理財節目異常推介個股" [ref=f27e1076]:
+              - generic [ref=f27e1077]: GET
+              - generic [ref=f27e1078]:
+                - link "/Announcement/BFZFZU_T" [ref=f27e1080]:
+                  - /url: "#/證券交易/get_Announcement_BFZFZU_T"
+                - generic [ref=f27e1082]: 投資理財節目異常推介個股
+            - generic "Copy to clipboard"
+            - button "get /Announcement/BFZFZU_T" [ref=f27e1085]
+          - generic [ref=f27e1090] [cursor=pointer]:
+            - button "GET /exchangeReport/TWTB4U 上市股票每日當日沖銷交易標的及統計" [ref=f27e1091]:
+              - generic [ref=f27e1092]: GET
+              - generic [ref=f27e1093]:
+                - link "/exchangeReport/TWTB4U" [ref=f27e1095]:
+                  - /url: "#/證券交易/get_exchangeReport_TWTB4U"
+                - generic [ref=f27e1097]: 上市股票每日當日沖銷交易標的及統計
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/TWTB4U" [ref=f27e1100]
+          - generic [ref=f27e1105] [cursor=pointer]:
+            - button "GET /exchangeReport/TWTBAU1 集中市場暫停先賣後買當日沖銷交易標的預告表" [ref=f27e1106]:
+              - generic [ref=f27e1107]: GET
+              - generic [ref=f27e1108]:
+                - link "/exchangeReport/TWTBAU1" [ref=f27e1110]:
+                  - /url: "#/證券交易/get_exchangeReport_TWTBAU1"
+                - generic [ref=f27e1112]: 集中市場暫停先賣後買當日沖銷交易標的預告表
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/TWTBAU1" [ref=f27e1115]
+          - generic [ref=f27e1120] [cursor=pointer]:
+            - button "GET /exchangeReport/TWTBAU2 集中市場暫停先賣後買當日沖銷交易歷史查詢" [ref=f27e1121]:
+              - generic [ref=f27e1122]: GET
+              - generic [ref=f27e1123]:
+                - link "/exchangeReport/TWTBAU2" [ref=f27e1125]:
+                  - /url: "#/證券交易/get_exchangeReport_TWTBAU2"
+                - generic [ref=f27e1127]: 集中市場暫停先賣後買當日沖銷交易歷史查詢
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/TWTBAU2" [ref=f27e1130]
+          - generic [ref=f27e1135] [cursor=pointer]:
+            - button "GET /exchangeReport/MI_5MINS 每 5 秒委託成交統計" [ref=f27e1136]:
+              - generic [ref=f27e1137]: GET
+              - generic [ref=f27e1138]:
+                - link "/exchangeReport/MI_5MINS" [ref=f27e1140]:
+                  - /url: "#/證券交易/get_exchangeReport_MI_5MINS"
+                - generic [ref=f27e1142]: 每 5 秒委託成交統計
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/MI_5MINS" [ref=f27e1145]
+          - generic [ref=f27e1150] [cursor=pointer]:
+            - button "GET /exchangeReport/FMTQIK 集中市場每日市場成交資訊" [ref=f27e1151]:
+              - generic [ref=f27e1152]: GET
+              - generic [ref=f27e1153]:
+                - link "/exchangeReport/FMTQIK" [ref=f27e1155]:
+                  - /url: "#/證券交易/get_exchangeReport_FMTQIK"
+                - generic [ref=f27e1157]: 集中市場每日市場成交資訊
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/FMTQIK" [ref=f27e1160]
+          - generic [ref=f27e1165] [cursor=pointer]:
+            - button "GET /exchangeReport/MI_INDEX20 集中市場每日成交量前二十名證券" [ref=f27e1166]:
+              - generic [ref=f27e1167]: GET
+              - generic [ref=f27e1168]:
+                - link "/exchangeReport/MI_INDEX20" [ref=f27e1170]:
+                  - /url: "#/證券交易/get_exchangeReport_MI_INDEX20"
+                - generic [ref=f27e1172]: 集中市場每日成交量前二十名證券
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/MI_INDEX20" [ref=f27e1175]
+          - generic [ref=f27e1180] [cursor=pointer]:
+            - button "GET /exchangeReport/TWT53U 集中市場零股交易行情單" [ref=f27e1181]:
+              - generic [ref=f27e1182]: GET
+              - generic [ref=f27e1183]:
+                - link "/exchangeReport/TWT53U" [ref=f27e1185]:
+                  - /url: "#/證券交易/get_exchangeReport_TWT53U"
+                - generic [ref=f27e1187]: 集中市場零股交易行情單
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/TWT53U" [ref=f27e1190]
+          - generic [ref=f27e1195] [cursor=pointer]:
+            - button "GET /exchangeReport/TWTAWU 集中市場暫停交易證券" [ref=f27e1196]:
+              - generic [ref=f27e1197]: GET
+              - generic [ref=f27e1198]:
+                - link "/exchangeReport/TWTAWU" [ref=f27e1200]:
+                  - /url: "#/證券交易/get_exchangeReport_TWTAWU"
+                - generic [ref=f27e1202]: 集中市場暫停交易證券
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/TWTAWU" [ref=f27e1205]
+          - generic [ref=f27e1210] [cursor=pointer]:
+            - button "GET /exchangeReport/BFT41U 集中市場盤後定價交易" [ref=f27e1211]:
+              - generic [ref=f27e1212]: GET
+              - generic [ref=f27e1213]:
+                - link "/exchangeReport/BFT41U" [ref=f27e1215]:
+                  - /url: "#/證券交易/get_exchangeReport_BFT41U"
+                - generic [ref=f27e1217]: 集中市場盤後定價交易
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/BFT41U" [ref=f27e1220]
+          - generic [ref=f27e1225] [cursor=pointer]:
+            - button "GET /exchangeReport/BFI84U 集中市場停資停券預告表" [ref=f27e1226]:
+              - generic [ref=f27e1227]: GET
+              - generic [ref=f27e1228]:
+                - link "/exchangeReport/BFI84U" [ref=f27e1230]:
+                  - /url: "#/證券交易/get_exchangeReport_BFI84U"
+                - generic [ref=f27e1232]: 集中市場停資停券預告表
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/BFI84U" [ref=f27e1235]
+          - generic [ref=f27e1240] [cursor=pointer]:
+            - button "GET /exchangeReport/MI_MARGN 集中市場融資融券餘額" [ref=f27e1241]:
+              - generic [ref=f27e1242]: GET
+              - generic [ref=f27e1243]:
+                - link "/exchangeReport/MI_MARGN" [ref=f27e1245]:
+                  - /url: "#/證券交易/get_exchangeReport_MI_MARGN"
+                - generic [ref=f27e1247]: 集中市場融資融券餘額
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/MI_MARGN" [ref=f27e1250]
+          - generic [ref=f27e1255] [cursor=pointer]:
+            - button "GET /block/BFIAUU_d 集中市場鉅額交易日成交量值統計" [ref=f27e1256]:
+              - generic [ref=f27e1257]: GET
+              - generic [ref=f27e1258]:
+                - link "/block/BFIAUU_d" [ref=f27e1260]:
+                  - /url: "#/證券交易/get_block_BFIAUU_d"
+                - generic [ref=f27e1262]: 集中市場鉅額交易日成交量值統計
+            - generic "Copy to clipboard"
+            - button "get /block/BFIAUU_d" [ref=f27e1265]
+          - generic [ref=f27e1270] [cursor=pointer]:
+            - button "GET /block/BFIAUU_m 集中市場鉅額交易月成交量值統計" [ref=f27e1271]:
+              - generic [ref=f27e1272]: GET
+              - generic [ref=f27e1273]:
+                - link "/block/BFIAUU_m" [ref=f27e1275]:
+                  - /url: "#/證券交易/get_block_BFIAUU_m"
+                - generic [ref=f27e1277]: 集中市場鉅額交易月成交量值統計
+            - generic "Copy to clipboard"
+            - button "get /block/BFIAUU_m" [ref=f27e1280]
+          - generic [ref=f27e1285] [cursor=pointer]:
+            - button "GET /block/BFIAUU_y 集中市場鉅額交易年成交量值統計" [ref=f27e1286]:
+              - generic [ref=f27e1287]: GET
+              - generic [ref=f27e1288]:
+                - link "/block/BFIAUU_y" [ref=f27e1290]:
+                  - /url: "#/證券交易/get_block_BFIAUU_y"
+                - generic [ref=f27e1292]: 集中市場鉅額交易年成交量值統計
+            - generic "Copy to clipboard"
+            - button "get /block/BFIAUU_y" [ref=f27e1295]
+          - generic [ref=f27e1300] [cursor=pointer]:
+            - button "GET /exchangeReport/STOCK_FIRST 每日第一上市外國股票成交量值" [ref=f27e1301]:
+              - generic [ref=f27e1302]: GET
+              - generic [ref=f27e1303]:
+                - link "/exchangeReport/STOCK_FIRST" [ref=f27e1305]:
+                  - /url: "#/證券交易/get_exchangeReport_STOCK_FIRST"
+                - generic [ref=f27e1307]: 每日第一上市外國股票成交量值
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/STOCK_FIRST" [ref=f27e1310]
+          - generic [ref=f27e1315] [cursor=pointer]:
+            - button "GET /exchangeReport/TWT85U 集中市場證券變更交易" [ref=f27e1316]:
+              - generic [ref=f27e1317]: GET
+              - generic [ref=f27e1318]:
+                - link "/exchangeReport/TWT85U" [ref=f27e1320]:
+                  - /url: "#/證券交易/get_exchangeReport_TWT85U"
+                - generic [ref=f27e1322]: 集中市場證券變更交易
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/TWT85U" [ref=f27e1325]
+          - generic [ref=f27e1330] [cursor=pointer]:
+            - button "GET /holidaySchedule/holidaySchedule 有價證券集中交易市場開（休）市日期" [ref=f27e1331]:
+              - generic [ref=f27e1332]: GET
+              - generic [ref=f27e1333]:
+                - link "/holidaySchedule/holidaySchedule" [ref=f27e1335]:
+                  - /url: "#/證券交易/get_holidaySchedule_holidaySchedule"
+                - generic [ref=f27e1337]: 有價證券集中交易市場開（休）市日期
+            - generic "Copy to clipboard"
+            - button "get /holidaySchedule/holidaySchedule" [ref=f27e1340]
+          - generic [ref=f27e1345] [cursor=pointer]:
+            - button "GET /exchangeReport/BWIBBU_d 上市個股日本益比、殖利率及股價淨值比（依日期查詢）" [ref=f27e1346]:
+              - generic [ref=f27e1347]: GET
+              - generic [ref=f27e1348]:
+                - link "/exchangeReport/BWIBBU_d" [ref=f27e1350]:
+                  - /url: "#/證券交易/get_exchangeReport_BWIBBU_d"
+                - generic [ref=f27e1352]: 上市個股日本益比、殖利率及股價淨值比（依日期查詢）
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/BWIBBU_d" [ref=f27e1355]
+          - generic [ref=f27e1360] [cursor=pointer]:
+            - button "GET /SBL/TWT96U 上市上櫃股票當日可借券賣出股數" [ref=f27e1361]:
+              - generic [ref=f27e1362]: GET
+              - generic [ref=f27e1363]:
+                - link "/SBL/TWT96U" [ref=f27e1365]:
+                  - /url: "#/證券交易/get_SBL_TWT96U"
+                - generic [ref=f27e1367]: 上市上櫃股票當日可借券賣出股數
+            - generic "Copy to clipboard"
+            - button "get /SBL/TWT96U" [ref=f27e1370]
+          - generic [ref=f27e1375] [cursor=pointer]:
+            - button "GET /exchangeReport/TWT84U 上市個股股價升降幅度" [ref=f27e1376]:
+              - generic [ref=f27e1377]: GET
+              - generic [ref=f27e1378]:
+                - link "/exchangeReport/TWT84U" [ref=f27e1380]:
+                  - /url: "#/證券交易/get_exchangeReport_TWT84U"
+                - generic [ref=f27e1382]: 上市個股股價升降幅度
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/TWT84U" [ref=f27e1385]
+          - generic [ref=f27e1390] [cursor=pointer]:
+            - button "GET /opendata/twtazu_od 集中市場漲跌證券數統計表" [ref=f27e1391]:
+              - generic [ref=f27e1392]: GET
+              - generic [ref=f27e1393]:
+                - link "/opendata/twtazu_od" [ref=f27e1395]:
+                  - /url: "#/證券交易/get_opendata_twtazu_od"
+                - generic [ref=f27e1397]: 集中市場漲跌證券數統計表
+            - generic "Copy to clipboard"
+            - button "get /opendata/twtazu_od" [ref=f27e1400]
+          - generic [ref=f27e1405] [cursor=pointer]:
+            - button "GET /opendata/t187ap19 電子式交易統計資訊" [ref=f27e1406]:
+              - generic [ref=f27e1407]: GET
+              - generic [ref=f27e1408]:
+                - link "/opendata/t187ap19" [ref=f27e1410]:
+                  - /url: "#/證券交易/get_opendata_t187ap19"
+                - generic [ref=f27e1412]: 電子式交易統計資訊
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap19" [ref=f27e1415]
+          - generic [ref=f27e1420] [cursor=pointer]:
+            - button "GET /opendata/t187ap37_L 上市權證基本資料彙總表" [ref=f27e1421]:
+              - generic [ref=f27e1422]: GET
+              - generic [ref=f27e1423]:
+                - link "/opendata/t187ap37_L" [ref=f27e1425]:
+                  - /url: "#/證券交易/get_opendata_t187ap37_L"
+                - generic [ref=f27e1427]: 上市權證基本資料彙總表
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap37_L" [ref=f27e1430]
+          - generic [ref=f27e1435] [cursor=pointer]:
+            - button "GET /announcement/notetrans 集中市場公布注意累計次數可能達處置標準資訊" [ref=f27e1436]:
+              - generic [ref=f27e1437]: GET
+              - generic [ref=f27e1438]:
+                - link "/announcement/notetrans" [ref=f27e1440]:
+                  - /url: "#/證券交易/get_announcement_notetrans"
+                - generic [ref=f27e1442]: 集中市場公布注意累計次數可能達處置標準資訊
+            - generic "Copy to clipboard"
+            - button "get /announcement/notetrans" [ref=f27e1445]
+          - generic [ref=f27e1450] [cursor=pointer]:
+            - button "GET /announcement/notice 集中市場當日公布注意股票" [ref=f27e1451]:
+              - generic [ref=f27e1452]: GET
+              - generic [ref=f27e1453]:
+                - link "/announcement/notice" [ref=f27e1455]:
+                  - /url: "#/證券交易/get_announcement_notice"
+                - generic [ref=f27e1457]: 集中市場當日公布注意股票
+            - generic "Copy to clipboard"
+            - button "get /announcement/notice" [ref=f27e1460]
+          - generic [ref=f27e1465] [cursor=pointer]:
+            - button "GET /exchangeReport/TWT48U_ALL 上市股票除權除息預告表" [ref=f27e1466]:
+              - generic [ref=f27e1467]: GET
+              - generic [ref=f27e1468]:
+                - link "/exchangeReport/TWT48U_ALL" [ref=f27e1470]:
+                  - /url: "#/證券交易/get_exchangeReport_TWT48U_ALL"
+                - generic [ref=f27e1472]: 上市股票除權除息預告表
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/TWT48U_ALL" [ref=f27e1475]
+      - generic [ref=f27e1479]:
+        - heading [level=3] [ref=f27e1480] [cursor=pointer]:
+          - link "財務報表" [ref=f27e1481]:
+            - /url: "#/財務報表"
+          - button "Collapse operation" [expanded] [ref=f27e1482]
+        - generic [ref=f27e1486]:
+          - generic [ref=f27e1489] [cursor=pointer]:
+            - button "GET /opendata/t187ap07_X_ci 公發公司資產負債表-一般業" [ref=f27e1490]:
+              - generic [ref=f27e1491]: GET
+              - generic [ref=f27e1492]:
+                - link "/opendata/t187ap07_X_ci" [ref=f27e1494]:
+                  - /url: "#/財務報表/get_opendata_t187ap07_X_ci"
+                - generic [ref=f27e1496]: 公發公司資產負債表-一般業
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap07_X_ci" [ref=f27e1499]
+          - generic [ref=f27e1504] [cursor=pointer]:
+            - button "GET /opendata/t187ap07_X_mim 公發公司資產負債表-異業" [ref=f27e1505]:
+              - generic [ref=f27e1506]: GET
+              - generic [ref=f27e1507]:
+                - link "/opendata/t187ap07_X_mim" [ref=f27e1509]:
+                  - /url: "#/財務報表/get_opendata_t187ap07_X_mim"
+                - generic [ref=f27e1511]: 公發公司資產負債表-異業
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap07_X_mim" [ref=f27e1514]
+          - generic [ref=f27e1519] [cursor=pointer]:
+            - button "GET /opendata/t187ap06_X_basi 公發公司綜合損益表-金融業" [ref=f27e1520]:
+              - generic [ref=f27e1521]: GET
+              - generic [ref=f27e1522]:
+                - link "/opendata/t187ap06_X_basi" [ref=f27e1524]:
+                  - /url: "#/財務報表/get_opendata_t187ap06_X_basi"
+                - generic [ref=f27e1526]: 公發公司綜合損益表-金融業
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap06_X_basi" [ref=f27e1529]
+          - generic [ref=f27e1534] [cursor=pointer]:
+            - button "GET /opendata/t187ap06_X_bd 公發公司綜合損益表-證券期貨業" [ref=f27e1535]:
+              - generic [ref=f27e1536]: GET
+              - generic [ref=f27e1537]:
+                - link "/opendata/t187ap06_X_bd" [ref=f27e1539]:
+                  - /url: "#/財務報表/get_opendata_t187ap06_X_bd"
+                - generic [ref=f27e1541]: 公發公司綜合損益表-證券期貨業
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap06_X_bd" [ref=f27e1544]
+          - generic [ref=f27e1549] [cursor=pointer]:
+            - button "GET /opendata/t187ap06_X_ci 公發公司綜合損益表-一般業" [ref=f27e1550]:
+              - generic [ref=f27e1551]: GET
+              - generic [ref=f27e1552]:
+                - link "/opendata/t187ap06_X_ci" [ref=f27e1554]:
+                  - /url: "#/財務報表/get_opendata_t187ap06_X_ci"
+                - generic [ref=f27e1556]: 公發公司綜合損益表-一般業
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap06_X_ci" [ref=f27e1559]
+          - generic [ref=f27e1564] [cursor=pointer]:
+            - button "GET /opendata/t187ap06_X_fh 公發公司綜合損益表-金控業" [ref=f27e1565]:
+              - generic [ref=f27e1566]: GET
+              - generic [ref=f27e1567]:
+                - link "/opendata/t187ap06_X_fh" [ref=f27e1569]:
+                  - /url: "#/財務報表/get_opendata_t187ap06_X_fh"
+                - generic [ref=f27e1571]: 公發公司綜合損益表-金控業
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap06_X_fh" [ref=f27e1574]
+          - generic [ref=f27e1579] [cursor=pointer]:
+            - button "GET /opendata/t187ap06_X_ins 公發公司綜合損益表-保險業" [ref=f27e1580]:
+              - generic [ref=f27e1581]: GET
+              - generic [ref=f27e1582]:
+                - link "/opendata/t187ap06_X_ins" [ref=f27e1584]:
+                  - /url: "#/財務報表/get_opendata_t187ap06_X_ins"
+                - generic [ref=f27e1586]: 公發公司綜合損益表-保險業
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap06_X_ins" [ref=f27e1589]
+          - generic [ref=f27e1594] [cursor=pointer]:
+            - button "GET /opendata/t187ap06_X_mim 公發公司綜合損益表-異業" [ref=f27e1595]:
+              - generic [ref=f27e1596]: GET
+              - generic [ref=f27e1597]:
+                - link "/opendata/t187ap06_X_mim" [ref=f27e1599]:
+                  - /url: "#/財務報表/get_opendata_t187ap06_X_mim"
+                - generic [ref=f27e1601]: 公發公司綜合損益表-異業
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap06_X_mim" [ref=f27e1604]
+          - generic [ref=f27e1609] [cursor=pointer]:
+            - button "GET /opendata/t187ap05_L 上市公司每月營業收入彙總表" [ref=f27e1610]:
+              - generic [ref=f27e1611]: GET
+              - generic [ref=f27e1612]:
+                - link "/opendata/t187ap05_L" [ref=f27e1614]:
+                  - /url: "#/財務報表/get_opendata_t187ap05_L"
+                - generic [ref=f27e1616]: 上市公司每月營業收入彙總表
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap05_L" [ref=f27e1619]
+          - generic [ref=f27e1624] [cursor=pointer]:
+            - button "GET /opendata/t187ap15_L 上市公司截至各季綜合損益財測達成情形(簡式)" [ref=f27e1625]:
+              - generic [ref=f27e1626]: GET
+              - generic [ref=f27e1627]:
+                - link "/opendata/t187ap15_L" [ref=f27e1629]:
+                  - /url: "#/財務報表/get_opendata_t187ap15_L"
+                - generic [ref=f27e1631]: 上市公司截至各季綜合損益財測達成情形(簡式)
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap15_L" [ref=f27e1634]
+          - generic [ref=f27e1639] [cursor=pointer]:
+            - button "GET /opendata/t187ap16_L 上市公司當季綜合損益經會計師查核(核閱)數與當季預測數差異達百分之十以上者，或截至當季累計差異達百分之二十以上者(簡式)" [ref=f27e1640]:
+              - generic [ref=f27e1641]: GET
+              - generic [ref=f27e1642]:
+                - link "/opendata/t187ap16_L" [ref=f27e1644]:
+                  - /url: "#/財務報表/get_opendata_t187ap16_L"
+                - generic [ref=f27e1646]: 上市公司當季綜合損益經會計師查核(核閱)數與當季預測數差異達百分之十以上者，或截至當季累計差異達百分之二十以上者(簡式)
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap16_L" [ref=f27e1649]
+          - generic [ref=f27e1654] [cursor=pointer]:
+            - button "GET /opendata/t187ap17_L 上市公司營益分析查詢彙總表(全體公司彙總報表)" [ref=f27e1655]:
+              - generic [ref=f27e1656]: GET
+              - generic [ref=f27e1657]:
+                - link "/opendata/t187ap17_L" [ref=f27e1659]:
+                  - /url: "#/財務報表/get_opendata_t187ap17_L"
+                - generic [ref=f27e1661]: 上市公司營益分析查詢彙總表(全體公司彙總報表)
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap17_L" [ref=f27e1664]
+          - generic [ref=f27e1669] [cursor=pointer]:
+            - button "GET /opendata/t187ap31_L 上市公司財務報告經監察人承認情形" [ref=f27e1670]:
+              - generic [ref=f27e1671]: GET
+              - generic [ref=f27e1672]:
+                - link "/opendata/t187ap31_L" [ref=f27e1674]:
+                  - /url: "#/財務報表/get_opendata_t187ap31_L"
+                - generic [ref=f27e1676]: 上市公司財務報告經監察人承認情形
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap31_L" [ref=f27e1679]
+          - generic [ref=f27e1684] [cursor=pointer]:
+            - button "GET /opendata/t187ap06_L_bd 上市公司綜合損益表(證券期貨業)" [ref=f27e1685]:
+              - generic [ref=f27e1686]: GET
+              - generic [ref=f27e1687]:
+                - link "/opendata/t187ap06_L_bd" [ref=f27e1689]:
+                  - /url: "#/財務報表/get_opendata_t187ap06_L_bd"
+                - generic [ref=f27e1691]: 上市公司綜合損益表(證券期貨業)
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap06_L_bd" [ref=f27e1694]
+          - generic [ref=f27e1699] [cursor=pointer]:
+            - button "GET /opendata/t187ap06_L_ci 上市公司綜合損益表(一般業)" [ref=f27e1700]:
+              - generic [ref=f27e1701]: GET
+              - generic [ref=f27e1702]:
+                - link "/opendata/t187ap06_L_ci" [ref=f27e1704]:
+                  - /url: "#/財務報表/get_opendata_t187ap06_L_ci"
+                - generic [ref=f27e1706]: 上市公司綜合損益表(一般業)
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap06_L_ci" [ref=f27e1709]
+          - generic [ref=f27e1714] [cursor=pointer]:
+            - button "GET /opendata/t187ap06_L_fh 上市公司綜合損益表(金控業)" [ref=f27e1715]:
+              - generic [ref=f27e1716]: GET
+              - generic [ref=f27e1717]:
+                - link "/opendata/t187ap06_L_fh" [ref=f27e1719]:
+                  - /url: "#/財務報表/get_opendata_t187ap06_L_fh"
+                - generic [ref=f27e1721]: 上市公司綜合損益表(金控業)
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap06_L_fh" [ref=f27e1724]
+          - generic [ref=f27e1729] [cursor=pointer]:
+            - button "GET /opendata/t187ap06_L_ins 上市公司綜合損益表(保險業)" [ref=f27e1730]:
+              - generic [ref=f27e1731]: GET
+              - generic [ref=f27e1732]:
+                - link "/opendata/t187ap06_L_ins" [ref=f27e1734]:
+                  - /url: "#/財務報表/get_opendata_t187ap06_L_ins"
+                - generic [ref=f27e1736]: 上市公司綜合損益表(保險業)
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap06_L_ins" [ref=f27e1739]
+          - generic [ref=f27e1744] [cursor=pointer]:
+            - button "GET /opendata/t187ap06_L_mim 上市公司綜合損益表(異業)" [ref=f27e1745]:
+              - generic [ref=f27e1746]: GET
+              - generic [ref=f27e1747]:
+                - link "/opendata/t187ap06_L_mim" [ref=f27e1749]:
+                  - /url: "#/財務報表/get_opendata_t187ap06_L_mim"
+                - generic [ref=f27e1751]: 上市公司綜合損益表(異業)
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap06_L_mim" [ref=f27e1754]
+          - generic [ref=f27e1759] [cursor=pointer]:
+            - button "GET /opendata/t187ap07_L_bd 上市公司資產負債表(證券期貨業)" [ref=f27e1760]:
+              - generic [ref=f27e1761]: GET
+              - generic [ref=f27e1762]:
+                - link "/opendata/t187ap07_L_bd" [ref=f27e1764]:
+                  - /url: "#/財務報表/get_opendata_t187ap07_L_bd"
+                - generic [ref=f27e1766]: 上市公司資產負債表(證券期貨業)
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap07_L_bd" [ref=f27e1769]
+          - generic [ref=f27e1774] [cursor=pointer]:
+            - button "GET /opendata/t187ap07_L_ci 上市公司資產負債表(一般業)" [ref=f27e1775]:
+              - generic [ref=f27e1776]: GET
+              - generic [ref=f27e1777]:
+                - link "/opendata/t187ap07_L_ci" [ref=f27e1779]:
+                  - /url: "#/財務報表/get_opendata_t187ap07_L_ci"
+                - generic [ref=f27e1781]: 上市公司資產負債表(一般業)
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap07_L_ci" [ref=f27e1784]
+          - generic [ref=f27e1789] [cursor=pointer]:
+            - button "GET /opendata/t187ap07_L_fh 上市公司資產負債表(金控業)" [ref=f27e1790]:
+              - generic [ref=f27e1791]: GET
+              - generic [ref=f27e1792]:
+                - link "/opendata/t187ap07_L_fh" [ref=f27e1794]:
+                  - /url: "#/財務報表/get_opendata_t187ap07_L_fh"
+                - generic [ref=f27e1796]: 上市公司資產負債表(金控業)
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap07_L_fh" [ref=f27e1799]
+          - generic [ref=f27e1804] [cursor=pointer]:
+            - button "GET /opendata/t187ap07_L_ins 上市公司資產負債表(保險業)" [ref=f27e1805]:
+              - generic [ref=f27e1806]: GET
+              - generic [ref=f27e1807]:
+                - link "/opendata/t187ap07_L_ins" [ref=f27e1809]:
+                  - /url: "#/財務報表/get_opendata_t187ap07_L_ins"
+                - generic [ref=f27e1811]: 上市公司資產負債表(保險業)
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap07_L_ins" [ref=f27e1814]
+          - generic [ref=f27e1819] [cursor=pointer]:
+            - button "GET /opendata/t187ap07_L_mim 上市公司資產負債表(異業)" [ref=f27e1820]:
+              - generic [ref=f27e1821]: GET
+              - generic [ref=f27e1822]:
+                - link "/opendata/t187ap07_L_mim" [ref=f27e1824]:
+                  - /url: "#/財務報表/get_opendata_t187ap07_L_mim"
+                - generic [ref=f27e1826]: 上市公司資產負債表(異業)
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap07_L_mim" [ref=f27e1829]
+          - generic [ref=f27e1834] [cursor=pointer]:
+            - button "GET /opendata/t187ap07_X_basi 公發公司資產負債表-金融業" [ref=f27e1835]:
+              - generic [ref=f27e1836]: GET
+              - generic [ref=f27e1837]:
+                - link "/opendata/t187ap07_X_basi" [ref=f27e1839]:
+                  - /url: "#/財務報表/get_opendata_t187ap07_X_basi"
+                - generic [ref=f27e1841]: 公發公司資產負債表-金融業
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap07_X_basi" [ref=f27e1844]
+          - generic [ref=f27e1849] [cursor=pointer]:
+            - button "GET /opendata/t187ap07_X_bd 公發公司資產負債表-證券期貨業" [ref=f27e1850]:
+              - generic [ref=f27e1851]: GET
+              - generic [ref=f27e1852]:
+                - link "/opendata/t187ap07_X_bd" [ref=f27e1854]:
+                  - /url: "#/財務報表/get_opendata_t187ap07_X_bd"
+                - generic [ref=f27e1856]: 公發公司資產負債表-證券期貨業
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap07_X_bd" [ref=f27e1859]
+          - generic [ref=f27e1864] [cursor=pointer]:
+            - button "GET /opendata/t187ap07_X_fh 公發公司資產負債表-金控業" [ref=f27e1865]:
+              - generic [ref=f27e1866]: GET
+              - generic [ref=f27e1867]:
+                - link "/opendata/t187ap07_X_fh" [ref=f27e1869]:
+                  - /url: "#/財務報表/get_opendata_t187ap07_X_fh"
+                - generic [ref=f27e1871]: 公發公司資產負債表-金控業
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap07_X_fh" [ref=f27e1874]
+          - generic [ref=f27e1879] [cursor=pointer]:
+            - button "GET /opendata/t187ap07_X_ins 公發公司資產負債表-保險業" [ref=f27e1880]:
+              - generic [ref=f27e1881]: GET
+              - generic [ref=f27e1882]:
+                - link "/opendata/t187ap07_X_ins" [ref=f27e1884]:
+                  - /url: "#/財務報表/get_opendata_t187ap07_X_ins"
+                - generic [ref=f27e1886]: 公發公司資產負債表-保險業
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap07_X_ins" [ref=f27e1889]
+          - generic [ref=f27e1894] [cursor=pointer]:
+            - button "GET /opendata/t187ap11_P 公發公司董監事持股餘額明細" [ref=f27e1895]:
+              - generic [ref=f27e1896]: GET
+              - generic [ref=f27e1897]:
+                - link "/opendata/t187ap11_P" [ref=f27e1899]:
+                  - /url: "#/財務報表/get_opendata_t187ap11_P"
+                - generic [ref=f27e1901]: 公發公司董監事持股餘額明細
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap11_P" [ref=f27e1904]
+          - generic [ref=f27e1909] [cursor=pointer]:
+            - button "GET /opendata/t187ap06_L_basi 上市公司綜合損益表(金融業)" [ref=f27e1910]:
+              - generic [ref=f27e1911]: GET
+              - generic [ref=f27e1912]:
+                - link "/opendata/t187ap06_L_basi" [ref=f27e1914]:
+                  - /url: "#/財務報表/get_opendata_t187ap06_L_basi"
+                - generic [ref=f27e1916]: 上市公司綜合損益表(金融業)
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap06_L_basi" [ref=f27e1919]
+          - generic [ref=f27e1924] [cursor=pointer]:
+            - button "GET /opendata/t187ap07_L_basi 上市公司資產負債表(金融業)" [ref=f27e1925]:
+              - generic [ref=f27e1926]: GET
+              - generic [ref=f27e1927]:
+                - link "/opendata/t187ap07_L_basi" [ref=f27e1929]:
+                  - /url: "#/財務報表/get_opendata_t187ap07_L_basi"
+                - generic [ref=f27e1931]: 上市公司資產負債表(金融業)
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap07_L_basi" [ref=f27e1934]
+      - generic [ref=f27e1938]:
+        - heading [level=3] [ref=f27e1939] [cursor=pointer]:
+          - link "指數" [ref=f27e1940]:
+            - /url: "#/指數"
+          - button "Collapse operation" [expanded] [ref=f27e1941]
+        - generic [ref=f27e1945]:
+          - generic [ref=f27e1948] [cursor=pointer]:
+            - button "GET /exchangeReport/MI_INDEX4 每日上市上櫃跨市場成交資訊" [ref=f27e1949]:
+              - generic [ref=f27e1950]: GET
+              - generic [ref=f27e1951]:
+                - link "/exchangeReport/MI_INDEX4" [ref=f27e1953]:
+                  - /url: "#/指數/get_exchangeReport_MI_INDEX4"
+                - generic [ref=f27e1955]: 每日上市上櫃跨市場成交資訊
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/MI_INDEX4" [ref=f27e1958]
+          - generic [ref=f27e1963] [cursor=pointer]:
+            - button "GET /indicesReport/FRMSA 寶島股價指數歷史資料" [ref=f27e1964]:
+              - generic [ref=f27e1965]: GET
+              - generic [ref=f27e1966]:
+                - link "/indicesReport/FRMSA" [ref=f27e1968]:
+                  - /url: "#/指數/get_indicesReport_FRMSA"
+                - generic [ref=f27e1970]: 寶島股價指數歷史資料
+            - generic "Copy to clipboard"
+            - button "get /indicesReport/FRMSA" [ref=f27e1973]
+          - generic [ref=f27e1978] [cursor=pointer]:
+            - button "GET /indicesReport/TAI50I 臺灣 50 指數歷史資料" [ref=f27e1979]:
+              - generic [ref=f27e1980]: GET
+              - generic [ref=f27e1981]:
+                - link "/indicesReport/TAI50I" [ref=f27e1983]:
+                  - /url: "#/指數/get_indicesReport_TAI50I"
+                - generic [ref=f27e1985]: 臺灣 50 指數歷史資料
+            - generic "Copy to clipboard"
+            - button "get /indicesReport/TAI50I" [ref=f27e1988]
+          - generic [ref=f27e1993] [cursor=pointer]:
+            - button "GET /indicesReport/MI_5MINS_HIST 發行量加權股價指數歷史資料" [ref=f27e1994]:
+              - generic [ref=f27e1995]: GET
+              - generic [ref=f27e1996]:
+                - link "/indicesReport/MI_5MINS_HIST" [ref=f27e1998]:
+                  - /url: "#/指數/get_indicesReport_MI_5MINS_HIST"
+                - generic [ref=f27e2000]: 發行量加權股價指數歷史資料
+            - generic "Copy to clipboard"
+            - button "get /indicesReport/MI_5MINS_HIST" [ref=f27e2003]
+          - generic [ref=f27e2008] [cursor=pointer]:
+            - button "GET /indicesReport/MFI94U 發行量加權股價報酬指數" [ref=f27e2009]:
+              - generic [ref=f27e2010]: GET
+              - generic [ref=f27e2011]:
+                - link "/indicesReport/MFI94U" [ref=f27e2013]:
+                  - /url: "#/指數/get_indicesReport_MFI94U"
+                - generic [ref=f27e2015]: 發行量加權股價報酬指數
+            - generic "Copy to clipboard"
+            - button "get /indicesReport/MFI94U" [ref=f27e2018]
+      - generic [ref=f27e2022]:
+        - heading [level=3] [ref=f27e2023] [cursor=pointer]:
+          - link "權證" [ref=f27e2024]:
+            - /url: "#/權證"
+          - button "Collapse operation" [expanded] [ref=f27e2025]
+        - generic [ref=f27e2029]:
+          - generic [ref=f27e2032] [cursor=pointer]:
+            - button "GET /opendata/t187ap36_L 上市認購(售)權證年度發行量概況統計表" [ref=f27e2033]:
+              - generic [ref=f27e2034]: GET
+              - generic [ref=f27e2035]:
+                - link "/opendata/t187ap36_L" [ref=f27e2037]:
+                  - /url: "#/權證/get_opendata_t187ap36_L"
+                - generic [ref=f27e2039]: 上市認購(售)權證年度發行量概況統計表
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap36_L" [ref=f27e2042]
+          - generic [ref=f27e2047] [cursor=pointer]:
+            - button "GET /opendata/t187ap43_L 上市認購(售)權證交易人數檔" [ref=f27e2048]:
+              - generic [ref=f27e2049]: GET
+              - generic [ref=f27e2050]:
+                - link "/opendata/t187ap43_L" [ref=f27e2052]:
+                  - /url: "#/權證/get_opendata_t187ap43_L"
+                - generic [ref=f27e2054]: 上市認購(售)權證交易人數檔
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap43_L" [ref=f27e2057]
+          - generic [ref=f27e2062] [cursor=pointer]:
+            - button "GET /opendata/t187ap42_L 上市認購(售)權證每日成交資料檔" [ref=f27e2063]:
+              - generic [ref=f27e2064]: GET
+              - generic [ref=f27e2065]:
+                - link "/opendata/t187ap42_L" [ref=f27e2067]:
+                  - /url: "#/權證/get_opendata_t187ap42_L"
+                - generic [ref=f27e2069]: 上市認購(售)權證每日成交資料檔
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap42_L" [ref=f27e2072]
+      - generic [ref=f27e2076]:
+        - heading [level=3] [ref=f27e2077] [cursor=pointer]:
+          - link "其他" [ref=f27e2078]:
+            - /url: "#/其他"
+          - button "Collapse operation" [expanded] [ref=f27e2079]
+        - generic [ref=f27e2083]:
+          - generic [ref=f27e2086] [cursor=pointer]:
+            - button "GET /opendata/t187ap47_L 基金基本資料彙總表" [ref=f27e2087]:
+              - generic [ref=f27e2088]: GET
+              - generic [ref=f27e2089]:
+                - link "/opendata/t187ap47_L" [ref=f27e2091]:
+                  - /url: "#/其他/get_opendata_t187ap47_L"
+                - generic [ref=f27e2093]: 基金基本資料彙總表
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap47_L" [ref=f27e2096]
+          - generic [ref=f27e2101] [cursor=pointer]:
+            - button "GET /news/eventList 證交所活動訊息" [ref=f27e2102]:
+              - generic [ref=f27e2103]: GET
+              - generic [ref=f27e2104]:
+                - link "/news/eventList" [ref=f27e2106]:
+                  - /url: "#/其他/get_news_eventList"
+                - generic [ref=f27e2108]: 證交所活動訊息
+            - generic "Copy to clipboard"
+            - button "get /news/eventList" [ref=f27e2111]
+          - generic [ref=f27e2116] [cursor=pointer]:
+            - button "GET /news/newsList 證交所新聞" [ref=f27e2117]:
+              - generic [ref=f27e2118]: GET
+              - generic [ref=f27e2119]:
+                - link "/news/newsList" [ref=f27e2121]:
+                  - /url: "#/其他/get_news_newsList"
+                - generic [ref=f27e2123]: 證交所新聞
+            - generic "Copy to clipboard"
+            - button "get /news/newsList" [ref=f27e2126]
+          - generic [ref=f27e2131] [cursor=pointer]:
+            - button "GET /exchangeReport/BFI61U 中央登錄公債補息資料表" [ref=f27e2132]:
+              - generic [ref=f27e2133]: GET
+              - generic [ref=f27e2134]:
+                - link "/exchangeReport/BFI61U" [ref=f27e2136]:
+                  - /url: "#/其他/get_exchangeReport_BFI61U"
+                - generic [ref=f27e2138]: 中央登錄公債補息資料表
+            - generic "Copy to clipboard"
+            - button "get /exchangeReport/BFI61U" [ref=f27e2141]
+      - generic [ref=f27e2145]:
+        - heading [level=3] [ref=f27e2146] [cursor=pointer]:
+          - link "券商資料" [ref=f27e2147]:
+            - /url: "#/券商資料"
+          - button "Collapse operation" [expanded] [ref=f27e2148]
+        - generic [ref=f27e2152]:
+          - generic [ref=f27e2155] [cursor=pointer]:
+            - button "GET /ETFReport/ETFRank 定期定額交易戶數統計排行月報表" [ref=f27e2156]:
+              - generic [ref=f27e2157]: GET
+              - generic [ref=f27e2158]:
+                - link "/ETFReport/ETFRank" [ref=f27e2160]:
+                  - /url: "#/券商資料/get_ETFReport_ETFRank"
+                - generic [ref=f27e2162]: 定期定額交易戶數統計排行月報表
+            - generic "Copy to clipboard"
+            - button "get /ETFReport/ETFRank" [ref=f27e2165]
+          - generic [ref=f27e2170] [cursor=pointer]:
+            - button "GET /brokerService/secRegData 開辦定期定額業務證券商名單" [ref=f27e2171]:
+              - generic [ref=f27e2172]: GET
+              - generic [ref=f27e2173]:
+                - link "/brokerService/secRegData" [ref=f27e2175]:
+                  - /url: "#/券商資料/get_brokerService_secRegData"
+                - generic [ref=f27e2177]: 開辦定期定額業務證券商名單
+            - generic "Copy to clipboard"
+            - button "get /brokerService/secRegData" [ref=f27e2180]
+          - generic [ref=f27e2185] [cursor=pointer]:
+            - button "GET /brokerService/brokerList 證券商總公司基本資料" [ref=f27e2186]:
+              - generic [ref=f27e2187]: GET
+              - generic [ref=f27e2188]:
+                - link "/brokerService/brokerList" [ref=f27e2190]:
+                  - /url: "#/券商資料/get_brokerService_brokerList"
+                - generic [ref=f27e2192]: 證券商總公司基本資料
+            - generic "Copy to clipboard"
+            - button "get /brokerService/brokerList" [ref=f27e2195]
+          - generic [ref=f27e2200] [cursor=pointer]:
+            - button "GET /opendata/t187ap01 券商業務別人員數" [ref=f27e2201]:
+              - generic [ref=f27e2202]: GET
+              - generic [ref=f27e2203]:
+                - link "/opendata/t187ap01" [ref=f27e2205]:
+                  - /url: "#/券商資料/get_opendata_t187ap01"
+                - generic [ref=f27e2207]: 券商業務別人員數
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap01" [ref=f27e2210]
+          - generic [ref=f27e2215] [cursor=pointer]:
+            - button "GET /opendata/t187ap20 各券商每月月計表" [ref=f27e2216]:
+              - generic [ref=f27e2217]: GET
+              - generic [ref=f27e2218]:
+                - link "/opendata/t187ap20" [ref=f27e2220]:
+                  - /url: "#/券商資料/get_opendata_t187ap20"
+                - generic [ref=f27e2222]: 各券商每月月計表
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap20" [ref=f27e2225]
+          - generic [ref=f27e2230] [cursor=pointer]:
+            - button "GET /opendata/t187ap21 各券商收支概況表資料" [ref=f27e2231]:
+              - generic [ref=f27e2232]: GET
+              - generic [ref=f27e2233]:
+                - link "/opendata/t187ap21" [ref=f27e2235]:
+                  - /url: "#/券商資料/get_opendata_t187ap21"
+                - generic [ref=f27e2237]: 各券商收支概況表資料
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap21" [ref=f27e2240]
+          - generic [ref=f27e2245] [cursor=pointer]:
+            - button "GET /opendata/t187ap18 證券商基本資料" [ref=f27e2246]:
+              - generic [ref=f27e2247]: GET
+              - generic [ref=f27e2248]:
+                - link "/opendata/t187ap18" [ref=f27e2250]:
+                  - /url: "#/券商資料/get_opendata_t187ap18"
+                - generic [ref=f27e2252]: 證券商基本資料
+            - generic "Copy to clipboard"
+            - button "get /opendata/t187ap18" [ref=f27e2255]
+          - generic [ref=f27e2260] [cursor=pointer]:
+            - button "GET /opendata/OpenData_BRK01 證券商營業員男女人數統計資料" [ref=f27e2261]:
+              - generic [ref=f27e2262]: GET
+              - generic [ref=f27e2263]:
+                - link "/opendata/OpenData_BRK01" [ref=f27e2265]:
+                  - /url: "#/券商資料/get_opendata_OpenData_BRK01"
+                - generic [ref=f27e2267]: 證券商營業員男女人數統計資料
+            - generic "Copy to clipboard"
+            - button "get /opendata/OpenData_BRK01" [ref=f27e2270]
+          - generic [ref=f27e2275] [cursor=pointer]:
+            - button "GET /opendata/OpenData_BRK02 證券商分公司基本資料" [ref=f27e2276]:
+              - generic [ref=f27e2277]: GET
+              - generic [ref=f27e2278]:
+                - link "/opendata/OpenData_BRK02" [ref=f27e2280]:
+                  - /url: "#/券商資料/get_opendata_OpenData_BRK02"
+                - generic [ref=f27e2282]: 證券商分公司基本資料
+            - generic "Copy to clipboard"
+            - button "get /opendata/OpenData_BRK02" [ref=f27e2285]
+  - generic:
+    - generic:
+      - generic:
+        - link:
+          - /url: https://validator.swagger.io/validator/debug?url=https%3A%2F%2Fopenapi.twse.com.tw%2Fv1%2Fswagger.json

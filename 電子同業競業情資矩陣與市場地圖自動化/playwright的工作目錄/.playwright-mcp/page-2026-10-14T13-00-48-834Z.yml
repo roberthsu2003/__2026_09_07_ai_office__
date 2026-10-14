@@ -1,0 +1,91 @@
+- generic [active] [ref=f3e1]:
+  - generic:
+    - generic:
+      - link "跳至主內容" [ref=f3e2] [cursor=pointer]
+      - link "無障礙說明" [ref=f3e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=zh-TW
+  - generic [ref=f3e8]:
+    - search [ref=f3e9]:
+      - generic [ref=f3e11]:
+        - link "Google 首頁" [ref=f3e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=zh-TW&sa=X&ved=2ahUKEwiM6vioyLmXAxUYausIHUnAFiUQPHoECAYQBA
+        - generic [ref=f3e22]:
+          - combobox "搜尋" [ref=f3e24]: site:mops.twse.com.tw 2026年8月 公司月營收 2327 site:mops.twse.com.tw 2026年8月 公司月營收 2327
+          - generic [ref=f3e25]:
+            - button "清除" [ref=f3e29] [cursor=pointer]
+            - generic [ref=f3e34]:
+              - button "語音搜尋" [ref=f3e37] [cursor=pointer]
+              - button "以圖搜尋" [ref=f3e42] [cursor=pointer]
+    - generic [ref=f3e45]:
+      - button "設定" [ref=f3e47] [cursor=pointer]
+      - button "分享" [ref=f3e52] [cursor=pointer]
+      - generic [ref=f3e58]:
+        - button "Google 應用程式" [ref=f3e60] [cursor=pointer]
+        - link "登入" [ref=f3e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=zh-TW&passive=true&continue=https://www.google.com/search%3Fq%3Dsite%253Amops.twse.com.tw%2B2026%25E5%25B9%25B48%25E6%259C%2588%2B%25E5%2585%25AC%25E5%258F%25B8%25E6%259C%2588%25E7%2587%259F%25E6%2594%25B6%2B2327%26sei%3DAH3PavGJD-m6rfcPsPHDuQE&ec=futura_srp_og_si_72236_p
+  - generic [ref=f3e67]:
+    - navigation [ref=f3e73]:
+      - generic [ref=f3e79]:
+        - list [ref=f3e80]:
+          - listitem [ref=f3e81]:
+            - link "AI 模式" [ref=f3e84] [cursor=pointer]:
+              - /url: /search?q=site:mops.twse.com.tw+2026%E5%B9%B48%E6%9C%88+%E5%85%AC%E5%8F%B8%E6%9C%88%E7%87%9F%E6%94%B6+2327&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnvT3grzHWhoSvm20LEKrrjkshQXKw:1791982848382&udm=50&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fDtJulCtqEKZyJOmv40_u0J3P4k2nmyumGREQEFdex0PzTYiy0kGU8svtdKSVm9ZpWd3JKs9Kvu6j9-W8YWko24NzZhk8_74C6ceayPSOt--_4zun63M9DBfP91_vUNgaIBeCH9sE0pvwD9-otna4Ciu6klA&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiM6vioyLmXAxUYausIHUnAFiUQ2J8OegQIERAD
+          - listitem [ref=f3e88]:
+            - link "全部" [disabled] [ref=f3e89]
+          - listitem [ref=f3e92]:
+            - link "新聞" [ref=f3e93] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnvT3grzHWhoSvm20LEKrrjkshQXKw:1791982848382&q=site:mops.twse.com.tw+2026%E5%B9%B48%E6%9C%88+%E5%85%AC%E5%8F%B8%E6%9C%88%E7%87%9F%E6%94%B6+2327&tbm=nws&source=lnms&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fDtJulCtqEKZyJOmv40_u0J3P4k2nmyumGREQEFdex0PzTYiy0kGU8svtdKSVm9ZpWd3JKs9Kvu6j9-W8YWko24NzZhk8_74C6ceayPSOt--_4zun63M9DBfP91_vUNgaIBeCH9sE0pvwD9-otna4Ciu6klA&sa=X&ved=2ahUKEwiM6vioyLmXAxUYausIHUnAFiUQ0pQJegQIFxAB
+          - listitem [ref=f3e96]:
+            - link "購物" [ref=f3e97] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnvT3grzHWhoSvm20LEKrrjkshQXKw:1791982848382&udm=28&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fDtJulCtqEKZyJOmv40_u0J3P4k2nmyumGREQEFdex0PzTYiy0kGU8svtdKSVm9ZpWd3JKs9Kvu6j9-W8YWko24NzZhk8_74C6ceayPSOt--_4zun63M9DBfP91_vUNgaIBeCH9sE0pvwD9-otna4Ciu6klA&q=site:mops.twse.com.tw+2026%E5%B9%B48%E6%9C%88+%E5%85%AC%E5%8F%B8%E6%9C%88%E7%87%9F%E6%94%B6+2327&ved=1t:220175&ictx=111
+          - listitem [ref=f3e100]:
+            - link "影片" [ref=f3e101] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnvT3grzHWhoSvm20LEKrrjkshQXKw:1791982848382&udm=vids&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fDtJulCtqEKZyJOmv40_u0J3P4k2nmyumGREQEFdex0PzTYiy0kGU8svtdKSVm9ZpWd3JKs9Kvu6j9-W8YWko24NzZhk8_74C6ceayPSOt--_4zun63M9DBfP91_vUNgaIBeCH9sE0pvwD9-otna4Ciu6klA&q=site:mops.twse.com.tw+2026%E5%B9%B48%E6%9C%88+%E5%85%AC%E5%8F%B8%E6%9C%88%E7%87%9F%E6%94%B6+2327&sa=X&ved=2ahUKEwiM6vioyLmXAxUYausIHUnAFiUQtKgLegQIExAB
+          - listitem [ref=f3e104]:
+            - link "圖片" [ref=f3e105] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnvT3grzHWhoSvm20LEKrrjkshQXKw:1791982848382&udm=2&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fDtJulCtqEKZyJOmv40_u0J3P4k2nmyumGREQEFdex0PzTYiy0kGU8svtdKSVm9ZpWd3JKs9Kvu6j9-W8YWko24NzZhk8_74C6ceayPSOt--_4zun63M9DBfP91_vUNgaIBeCH9sE0pvwD9-otna4Ciu6klA&q=site:mops.twse.com.tw+2026%E5%B9%B48%E6%9C%88+%E5%85%AC%E5%8F%B8%E6%9C%88%E7%87%9F%E6%94%B6+2327&sa=X&ved=2ahUKEwiM6vioyLmXAxUYausIHUnAFiUQtKgLegQIEhAB
+          - listitem [ref=f3e108]:
+            - link "短片" [ref=f3e109] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnvT3grzHWhoSvm20LEKrrjkshQXKw:1791982848382&udm=39&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fDtJulCtqEKZyJOmv40_u0J3P4k2nmyumGREQEFdex0PzTYiy0kGU8svtdKSVm9ZpWd3JKs9Kvu6j9-W8YWko24NzZhk8_74C6ceayPSOt--_4zun63M9DBfP91_vUNgaIBeCH9sE0pvwD9-otna4Ciu6klA&q=site:mops.twse.com.tw+2026%E5%B9%B48%E6%9C%88+%E5%85%AC%E5%8F%B8%E6%9C%88%E7%87%9F%E6%94%B6+2327&sa=X&ved=2ahUKEwiM6vioyLmXAxUYausIHUnAFiUQs6gLegQIFRAB
+          - listitem [ref=f3e112]:
+            - button [ref=f3e113] [cursor=pointer]:
+              - generic "更多篩選條件" [ref=f3e114]: 更多
+        - button "工具" [ref=f3e121] [cursor=pointer]
+    - heading "搜尋結果" [level=1] [ref=f3e128]
+    - main [ref=f3e134]:
+      - generic [ref=f3e136]:
+        - generic [ref=f3e138]:
+          - heading [level=3] [ref=f3e139]:
+            - text: 找不到符合搜尋字詞「
+            - emphasis [ref=f3e141]: site:mops.twse.com.tw 2026年8月 公司月營收 2327
+            - text: 」的文件。
+          - paragraph [ref=f3e142]: 建議：
+          - list [ref=f3e143]:
+            - listitem [ref=f3e144]: 請檢查有無錯別字
+            - listitem [ref=f3e145]: 試試以其他關鍵字搜尋。
+            - listitem [ref=f3e146]: 試試以較籠統的關鍵字搜尋。
+            - listitem [ref=f3e147]: 試試以較少的關鍵字搜尋。
+          - img "雪人從冰裡釣魚的圖片" [ref=f3e151]
+        - navigation
+      - navigation
+    - contentinfo [ref=f3e443]:
+      - heading "頁尾連結" [level=1] [ref=f3e444]
+      - generic [ref=f3e448]:
+        - generic [ref=f3e450]:
+          - text: 台灣
+          - generic [ref=f3e452]:
+            - button "220 新北市板橋區 - 根據你的 IP 位址" [ref=f3e454] [cursor=pointer]:
+              - generic [ref=f3e455]: 220 新北市板橋區
+              - generic [ref=f3e457]:
+                - text: "-"
+                - generic [ref=f3e458]: 根據你的 IP 位址
+            - text: "-"
+            - button "更新位置" [ref=f3e460] [cursor=pointer]
+        - generic [ref=f3e463]:
+          - link "說明" [ref=f3e464] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=zh-TW&fg=1
+          - button "提供意見" [ref=f3e466] [cursor=pointer]
+          - link "隱私權" [ref=f3e468] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=zh-TW&fg=1
+          - link "服務條款" [ref=f3e469] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=zh-TW&fg=1

@@ -1,0 +1,260 @@
+- generic [active] [ref=f11e1]:
+  - generic:
+    - generic:
+      - link "跳至主內容" [ref=f11e2] [cursor=pointer]
+      - link "無障礙說明" [ref=f11e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=zh-TW
+  - generic [ref=f11e8]:
+    - search [ref=f11e9]:
+      - generic [ref=f11e11]:
+        - link "Google 首頁" [ref=f11e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=zh-TW&sa=X&ved=2ahUKEwixluKvyLmXAxVydesIHRIMNMYQPHoECAYQBA
+        - generic [ref=f11e22]:
+          - combobox "搜尋" [ref=f11e24]: TWSE OpenAPI 月營收 API 公司月營收 TWSE OpenAPI 月營收 API 公司月營收
+          - generic [ref=f11e25]:
+            - button "清除" [ref=f11e29] [cursor=pointer]
+            - generic [ref=f11e34]:
+              - button "語音搜尋" [ref=f11e37] [cursor=pointer]
+              - button "以圖搜尋" [ref=f11e42] [cursor=pointer]
+    - generic [ref=f11e45]:
+      - button "設定" [ref=f11e47] [cursor=pointer]
+      - button "分享" [ref=f11e52] [cursor=pointer]
+      - generic [ref=f11e58]:
+        - button "Google 應用程式" [ref=f11e60] [cursor=pointer]
+        - link "登入" [ref=f11e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=zh-TW&passive=true&continue=https://www.google.com/search%3Fq%3DTWSE%2BOpenAPI%2B%25E6%259C%2588%25E7%2587%259F%25E6%2594%25B6%2BAPI%2B%25E5%2585%25AC%25E5%258F%25B8%25E6%259C%2588%25E7%2587%259F%25E6%2594%25B6&ec=futura_srp_og_si_72236_p
+  - generic [ref=f11e67]:
+    - navigation [ref=f11e73]:
+      - generic [ref=f11e79]:
+        - list [ref=f11e80]:
+          - listitem [ref=f11e81]:
+            - link "AI 模式" [ref=f11e84] [cursor=pointer]:
+              - /url: /search?q=TWSE+OpenAPI+%E6%9C%88%E7%87%9F%E6%94%B6+API+%E5%85%AC%E5%8F%B8%E6%9C%88%E7%87%9F%E6%94%B6&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnuA8utD8YLtTP3Y__UL488Qmz5Rig:1791982862639&udm=50&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fOgk4t2BtnPd-mbK7HpyKiCJX6kn5nRe4hgcrVXhXWFuUyagucCtX3qv1W-tSwxIxdOId98ls2TxjCM5GJ9AhTaWjFA8TXbBzlGvmWO09DRgt9YMQmRz2EYAiHlnwLKLfyc8Pvz_UCWlgJn4_N00gNagBLKr&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwixluKvyLmXAxVydesIHRIMNMYQ2J8OegQIExAD
+          - listitem [ref=f11e88]:
+            - link "全部" [disabled] [ref=f11e89]
+          - listitem [ref=f11e92]:
+            - link "新聞" [ref=f11e93] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnuA8utD8YLtTP3Y__UL488Qmz5Rig:1791982862639&q=TWSE+OpenAPI+%E6%9C%88%E7%87%9F%E6%94%B6+API+%E5%85%AC%E5%8F%B8%E6%9C%88%E7%87%9F%E6%94%B6&tbm=nws&source=lnms&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fOgk4t2BtnPd-mbK7HpyKiCJX6kn5nRe4hgcrVXhXWFuUyagucCtX3qv1W-tSwxIxdOId98ls2TxjCM5GJ9AhTaWjFA8TXbBzlGvmWO09DRgt9YMQmRz2EYAiHlnwLKLfyc8Pvz_UCWlgJn4_N00gNagBLKr&sa=X&ved=2ahUKEwixluKvyLmXAxVydesIHRIMNMYQ0pQJegQIGRAB
+          - listitem [ref=f11e96]:
+            - link "影片" [ref=f11e97] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnuA8utD8YLtTP3Y__UL488Qmz5Rig:1791982862639&udm=vids&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fOgk4t2BtnPd-mbK7HpyKiCJX6kn5nRe4hgcrVXhXWFuUyagucCtX3qv1W-tSwxIxdOId98ls2TxjCM5GJ9AhTaWjFA8TXbBzlGvmWO09DRgt9YMQmRz2EYAiHlnwLKLfyc8Pvz_UCWlgJn4_N00gNagBLKr&q=TWSE+OpenAPI+%E6%9C%88%E7%87%9F%E6%94%B6+API+%E5%85%AC%E5%8F%B8%E6%9C%88%E7%87%9F%E6%94%B6&sa=X&ved=2ahUKEwixluKvyLmXAxVydesIHRIMNMYQtKgLegQIGBAB
+          - listitem [ref=f11e100]:
+            - link "購物" [ref=f11e101] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnuA8utD8YLtTP3Y__UL488Qmz5Rig:1791982862639&udm=28&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fOgk4t2BtnPd-mbK7HpyKiCJX6kn5nRe4hgcrVXhXWFuUyagucCtX3qv1W-tSwxIxdOId98ls2TxjCM5GJ9AhTaWjFA8TXbBzlGvmWO09DRgt9YMQmRz2EYAiHlnwLKLfyc8Pvz_UCWlgJn4_N00gNagBLKr&q=TWSE+OpenAPI+%E6%9C%88%E7%87%9F%E6%94%B6+API+%E5%85%AC%E5%8F%B8%E6%9C%88%E7%87%9F%E6%94%B6&ved=1t:220175&ictx=111
+          - listitem [ref=f11e104]:
+            - link "圖片" [ref=f11e105] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnuA8utD8YLtTP3Y__UL488Qmz5Rig:1791982862639&udm=2&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fOgk4t2BtnPd-mbK7HpyKiCJX6kn5nRe4hgcrVXhXWFuUyagucCtX3qv1W-tSwxIxdOId98ls2TxjCM5GJ9AhTaWjFA8TXbBzlGvmWO09DRgt9YMQmRz2EYAiHlnwLKLfyc8Pvz_UCWlgJn4_N00gNagBLKr&q=TWSE+OpenAPI+%E6%9C%88%E7%87%9F%E6%94%B6+API+%E5%85%AC%E5%8F%B8%E6%9C%88%E7%87%9F%E6%94%B6&sa=X&ved=2ahUKEwixluKvyLmXAxVydesIHRIMNMYQtKgLegQIFhAB
+          - listitem [ref=f11e108]:
+            - link "短片" [ref=f11e109] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnuA8utD8YLtTP3Y__UL488Qmz5Rig:1791982862639&udm=39&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fOgk4t2BtnPd-mbK7HpyKiCJX6kn5nRe4hgcrVXhXWFuUyagucCtX3qv1W-tSwxIxdOId98ls2TxjCM5GJ9AhTaWjFA8TXbBzlGvmWO09DRgt9YMQmRz2EYAiHlnwLKLfyc8Pvz_UCWlgJn4_N00gNagBLKr&q=TWSE+OpenAPI+%E6%9C%88%E7%87%9F%E6%94%B6+API+%E5%85%AC%E5%8F%B8%E6%9C%88%E7%87%9F%E6%94%B6&sa=X&ved=2ahUKEwixluKvyLmXAxVydesIHRIMNMYQs6gLegQIFRAB
+          - listitem [ref=f11e112]:
+            - button [ref=f11e113] [cursor=pointer]:
+              - generic "更多篩選條件" [ref=f11e114]: 更多
+        - button "工具" [ref=f11e121] [cursor=pointer]
+    - heading "搜尋結果" [level=1] [ref=f11e128]
+    - generic [ref=f11e133]:
+      - generic [ref=f11e152]:
+        - heading "思考中" [level=2] [ref=f11e156]
+        - progressbar "產生中" [ref=f11e159]
+      - main [ref=f11e161]:
+        - generic [ref=f11e165]:
+          - generic [ref=f11e168]:
+            - heading "網頁搜尋結果" [level=2] [ref=f11e169]
+            - generic [ref=f11e170]:
+              - generic [ref=f11e173]:
+                - link "TWSE OpenAPI - 臺灣證券交易所 TWSE 臺灣證券交易所 https://openapi.twse.com.tw" [ref=f11e175] [cursor=pointer]:
+                  - /url: /goto?url=CAESVwHrOzAVJIRPHzD5IMgdnCl_eilP-H6vpN-_YRk-4Uf_NRmp3yFK8ntI5sJIU1EhGME4hDvbwmWfn0HT5nt2jernU7W_AoJUPbKmxBesP-a82Fc3QE0Erg
+                  - heading "TWSE OpenAPI - 臺灣證券交易所" [level=3] [ref=f11e176]
+                  - generic [ref=f11e182]:
+                    - generic [ref=f11e183]: TWSE 臺灣證券交易所
+                    - generic [ref=f11e185]: https://openapi.twse.com.tw
+                - button "進一步瞭解這項結果" [ref=f11e191] [cursor=pointer]
+              - generic [ref=f11e198]:
+                - text: 本平臺提供臺灣證券交易所服務API，歡迎各位介接使用。 使用條款 授權說明 ...
+                - emphasis [ref=f11e199]: 上市公司每月營業收入彙總表
+                - text: . GET. /opendata/t187ap15_L. 上市公司截至各季綜合損益 ...
+          - generic [ref=f11e203]:
+            - generic [ref=f11e206]:
+              - link "上市公司每月營業收入彙總表 政府資料開放 https://data.gov.tw › 資料集" [ref=f11e208] [cursor=pointer]:
+                - /url: /goto?url=CAESXAHrOzAVPHumqQFc2bcZQVBOiSrSyBaor3ter-t1PBv-_ZMtgbu2p96FwHT8uSS_7CA4MMtRnkHYPZ4y1MsDyFOQj1PbQakzc2dlu2mjY97Ev2RZ8GYVLxHUEzzn
+                - heading "上市公司每月營業收入彙總表" [level=3] [ref=f11e209]
+                - generic [ref=f11e215]:
+                  - generic [ref=f11e216]: 政府資料開放
+                  - generic [ref=f11e218]: https://data.gov.tw › 資料集
+              - button "進一步瞭解這項結果" [ref=f11e224] [cursor=pointer]
+            - generic [ref=f11e230]:
+              - generic [ref=f11e231]: 2024年12月31日 —
+              - generic [ref=f11e232]:
+                - text: OAS標準之
+                - emphasis [ref=f11e233]: API
+                - text: 說明文件網址https://
+                - emphasis [ref=f11e234]: openapi
+                - text: .
+                - emphasis [ref=f11e235]: twse
+                - text: .com.tw/v1/swagger.json ... 提供查詢所有國內上市
+                - emphasis [ref=f11e236]: 公司
+                - text: 每
+                - emphasis [ref=f11e237]: 月營收
+                - text: 之資訊。 臺灣證券交易所NEW的 ...
+          - generic [ref=f11e241]:
+            - generic [ref=f11e244]:
+              - link "TWSE OpenAPI 是什麼？常用端點總覽與使用須知 twmarketdata.com https://twmarketdata.com › twse-openapi-endpoints-guide" [ref=f11e246] [cursor=pointer]:
+                - /url: /goto?url=CAESfgHrOzAV0gzoqiZcmo4CzbWyH48o_XK6GjEWm3z72NJIjZ8e-AxQIFSDqYLLH1jHi342yzoTiOb6JdddQJ-jaCafDJlsA75shOtn4IZ3TS3Ixi3AOyxLvo2wkAHW2Ys32fZdfgbmEVoKYsLgTy-03cqfZgJ23xi1Bo9Tug5voA
+                - heading "TWSE OpenAPI 是什麼？常用端點總覽與使用須知" [level=3] [ref=f11e247]
+                - generic [ref=f11e253]:
+                  - generic [ref=f11e254]: twmarketdata.com
+                  - generic [ref=f11e256]: https://twmarketdata.com › twse-openapi-endpoints-guide
+              - button "進一步瞭解這項結果" [ref=f11e262] [cursor=pointer]
+            - generic [ref=f11e268]:
+              - generic [ref=f11e269]: 2026年7月31日 —
+              - generic [ref=f11e270]:
+                - text: 常用端點→ 它給什麼→ 它的限制 ; t187ap05_L,
+                - emphasis [ref=f11e271]: 上市公司每月營業收入
+                - text: ，含當月、上月、去年同月與增減百分比, 最新一期快照，無區間查詢.
+          - generic [ref=f11e275]:
+            - generic [ref=f11e278]:
+              - link "上市櫃公司每月營收 開放資料數據與查詢 https://www.opendata.vip › stocks › monthlyRevenue" [ref=f11e280] [cursor=pointer]:
+                - /url: /goto?url=CAESaQHrOzAV36uv6W54r3y_04hPf8K1utuuNC960_r-XTlMNqqlIAG7U64oLWJ4-ExbUUQaD_-sLFj1WLJhF7tP61evWMu5d4hTQHDk2491tdmZpU888A9CR-8pW_OxHS0t0gaIIshbr-fQzw
+                - heading "上市櫃公司每月營收" [level=3] [ref=f11e281]
+                - generic [ref=f11e287]:
+                  - generic [ref=f11e288]: 開放資料數據與查詢
+                  - generic [ref=f11e290]: https://www.opendata.vip › stocks › monthlyRevenue
+              - button "進一步瞭解這項結果" [ref=f11e296] [cursor=pointer]
+            - generic [ref=f11e303]:
+              - text: 上市櫃公司每月營業收入彙總表，整合臺灣證券交易所（
+              - emphasis [ref=f11e304]: TWSE
+              - text: ）與證券櫃檯買賣中心（TPEx）公開資訊，含當月營收、月增率、年增率、累計營收，即時查詢上市櫃
+              - emphasis [ref=f11e305]: 公司月營收
+              - text: ...
+          - generic [ref=f11e309]:
+            - generic [ref=f11e312]:
+              - link "Python 台股API 比較：FinMind、yfinance、證交所OpenAPI ... FinLab https://finlab.finance › 研究 › 技術指標" [ref=f11e314] [cursor=pointer]:
+                - /url: /goto?url=CAEScwHrOzAVVK1heTB_tp-ArChW4VF-C32e38iNT2EyUGNDrNUUM9Ib7SI6A40gtAa73w2SxqrPzNDspNsrX5IfrNlFLMfUgJJe3lAH2CAaSYDeptkc9FT5Pv344XvRh8O5sO-y4dr2zYgCvXbwdv88wYgU8hU
+                - heading "Python 台股API 比較：FinMind、yfinance、證交所OpenAPI ..." [level=3] [ref=f11e315]
+                - generic [ref=f11e321]:
+                  - generic [ref=f11e322]: FinLab
+                  - generic [ref=f11e324]: https://finlab.finance › 研究 › 技術指標
+              - button "進一步瞭解這項結果" [ref=f11e330] [cursor=pointer]
+            - generic [ref=f11e336]:
+              - generic [ref=f11e337]: 2026年6月7日 —
+              - generic [ref=f11e338]:
+                - text: Python 台股
+                - emphasis [ref=f11e339]: API
+                - text: 怎麼選？本文比較FinMind、yfinance 台股、證交所
+                - emphasis [ref=f11e340]: OpenAPI
+                - text: stock_day_all、twstock、富果與finlab，拆解歷史資料、除權息、財報公布 ...
+            - generic [ref=f11e342]:
+              - text: 缺少字詞： 公司 ‎| 必須包含以下字詞：
+              - link "公司" [ref=f11e343] [cursor=pointer]:
+                - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnuA8utD8YLtTP3Y__UL488Qmz5Rig:1791982862639&q=TWSE+OpenAPI+%E6%9C%88%E7%87%9F%E6%94%B6+API+%22%E5%85%AC%E5%8F%B8%22+%E6%9C%88%E7%87%9F%E6%94%B6&sa=X&ved=2ahUKEwixluKvyLmXAxVydesIHRIMNMYQ5t4CegQIPhAB
+          - generic [ref=f11e347]:
+            - generic [ref=f11e350]:
+              - link "介紹TWSE 官網API 格式（JSON、CSV），理解URL 結構 iT 邦幫忙 https://ithelp.ithome.com.tw › articles" [ref=f11e352] [cursor=pointer]:
+                - /url: /goto?url=CAESaQHrOzAVMNwCex1TZfAsIG8e7npwGQT_mQFf3cp1tqLC-w5TunrAZjFbKpA3bKycApGUZLnpI-Q55TV4LRr8Alk6JjM97iJ8YbXv1kP9r7WUmjhUdT3fuH_-7eRK1LM3eT8cl5OobyXWLw
+                - heading "介紹TWSE 官網API 格式（JSON、CSV），理解URL 結構" [level=3] [ref=f11e353]
+                - generic [ref=f11e359]:
+                  - generic [ref=f11e360]: iT 邦幫忙
+                  - generic [ref=f11e362]: https://ithelp.ithome.com.tw › articles
+              - button "進一步瞭解這項結果" [ref=f11e368] [cursor=pointer]
+            - generic [ref=f11e375]:
+              - text: 昨天完成了環境設定，那今天我們要來了解台灣證交所(
+              - emphasis [ref=f11e376]: TWSE
+              - text: ) 提供的公開
+              - emphasis [ref=f11e377]: API
+              - text: 。
+              - emphasis [ref=f11e378]: TWSE
+              - text: 官網雖然沒有寫「
+              - emphasis [ref=f11e379]: API
+              - text: 文件」，但實際上很多股市資料都能用URL 直接取得，格式包含JSON ...
+          - generic [ref=f11e383]:
+            - generic [ref=f11e386]:
+              - link "t187ap05_L 月營收端點怎麼用？TWSE OpenAPI 抓台股月營收 twmarketdata.com https://twmarketdata.com › ... › 幫助中心 › 教學與問答" [ref=f11e388] [cursor=pointer]:
+                - /url: /goto?url=CAESiAEB6zswFa51-B_CEnkKPQOB6tfaEhQ_nRqfZ2P4RRIkhxPGLcA0-q0eysbYSoFiIncWUn3PnOXbRWaqzI-NQa59_izfTuNOtZj1f20cAgtldo8xyiMXm2vqahAPR9VHQxw2FtYP16nl2xkC2HaYqV8JnNOkXEDoQVnIwLOwReyDpbndGU0o1Lfe
+                - heading "t187ap05_L 月營收端點怎麼用？TWSE OpenAPI 抓台股月營收" [level=3] [ref=f11e389]
+                - generic [ref=f11e395]:
+                  - generic [ref=f11e396]: twmarketdata.com
+                  - generic [ref=f11e398]: https://twmarketdata.com › ... › 幫助中心 › 教學與問答
+              - button "進一步瞭解這項結果" [ref=f11e404] [cursor=pointer]
+            - generic [ref=f11e411]:
+              - emphasis [ref=f11e412]: t187ap05_L 是TWSE OpenAPI 的上市公司每月營業收入端點
+              - text: ，免金鑰直接GET 就回傳 ... 只有上市：上櫃公司的月營收不在這個端點，需另外從TPEx 取得，且欄位命名 ...
+          - generic [ref=f11e416]:
+            - generic [ref=f11e419]:
+              - link "這個網址是台灣證券交易所TWSE 的公開API，內容 ... Threads · meta.ai 3 人按讚 · 3 個月前" [ref=f11e421] [cursor=pointer]:
+                - /url: /goto?url=CAESwAUB6zswFQ-qDrTu22NkUB1LhIHvJUJwROA0gty-uoOvjYjUm-c9ZPLk5w-heAtN6zWmeN8IjFS1t_pUpw-Iw2zTjzgQA45pWgR1427BdfyUuFeWOwy4NMaLKltf7-Ie-S6mdgKaqUqDx3yVb4srk4glmaRsNqSq8hCB1FhrP81VZBIHV1XkPXpB7p0QM2qH_gE6f_oMPOEBnZkYizm4E4TJirBZUchIQlw-o8DE-Oof45D7P1L3u5Ew8Zy2dBvBPVrVrxWBo0nJhtNQd_JabVOOSt_XwAQnP490oOIBMBR3xy5Q6h1ABG7qWWhxtNWRMXtwOscArNqMSlr7ISzQ_d6yI4Vvq1aRhiWVzBypS-_OdZM92opszhV3SKXh43Hk67IoT1d6dA6kmD-_yUjmugJx13aVyfPeW9CoxB6V3NDTTqg8fDKd3AbR9ekW4S5G7x7UFX9MFbrzl_kKaKPyW8T3wz7koRTTp5peDsch316meaQzDkj4vlyrXRoF7RoPCEnJhSbuHQ-KFEl22-1Q4jWc5aDl60b5lR4vtCUDxFOR3tswVNrXjEKB_yrILQVO8PBx8TFhAeSacISjQUhxbosECqEUXxMN63R7hKf501-lQAns6I40PZQWHLQCWlW6yOM-hq8BoNl-zt3n-UeVSItMlmgTnPXc5_IevnDS5JijoEAnmJUYmFh9Y1ZfN3X8M9QNFsQw4erj3elHJsoochYeJpPDxr9lj-S1khdoAljcyPCAAthwTOF-jdpOPPGmT4WTWAR4NFFmEaGhbHW41KPL6Nuzu28qliAQZZQrNOQT0TojXu0hKA1H7zSRScmz-5JrliEEDbjrHbT2BSFK9iaat9FkBP8jvyJn6eHCR_NBZ4KAJKf-DJ6tkfhu9rZjmT8zZKWBe_p5qY_bOgpQjQugkSDeckabjupfnQnLvyB88A
+                - heading "這個網址是台灣證券交易所TWSE 的公開API，內容 ..." [level=3] [ref=f11e422]
+                - generic [ref=f11e428]:
+                  - generic [ref=f11e429]: Threads · meta.ai
+                  - generic [ref=f11e431]: 3 人按讚 · 3 個月前
+              - button "進一步瞭解這項結果" [ref=f11e437] [cursor=pointer]
+            - generic [ref=f11e444]:
+              - text: 這個網址是台灣證券交易所
+              - emphasis [ref=f11e445]: TWSE
+              - text: 的公開
+              - emphasis [ref=f11e446]: API
+              - text: ，內容是「全部上市
+              - emphasis [ref=f11e447]: 公司
+              - text: 個股本益比、殖利率及股價淨值比」的一覽表JSON 資料。 每筆資料包含：日期、股票代號、 ...
+          - generic [ref=f11e451]:
+            - generic [ref=f11e454]:
+              - link "一分鐘搞定台股數據：證交所OpenAPI無需爬蟲輕鬆獲取 vocus https://vocus.cc › 陳陳" [ref=f11e456] [cursor=pointer]:
+                - /url: /goto?url=CAESbAHrOzAVgUF-X7Bs_43YxQRSVuEmBRDvU6rchOmD7hv3xXhkJZd-E8wcOszwO3Fsjic-BYlvMvbevUmWqXj3VYpMvuCZcmG6BPSR6ZQAH6jfOmhYXKnWm1ifDCbbI-hxzB7PRBvrS45Hkr0YDA
+                - heading "一分鐘搞定台股數據：證交所OpenAPI無需爬蟲輕鬆獲取" [level=3] [ref=f11e457]
+                - generic [ref=f11e463]:
+                  - generic [ref=f11e464]: vocus
+                  - generic [ref=f11e466]: https://vocus.cc › 陳陳
+              - button "進一步瞭解這項結果" [ref=f11e472] [cursor=pointer]
+            - generic [ref=f11e478]:
+              - generic [ref=f11e479]: 2024年6月29日 —
+              - generic [ref=f11e480]:
+                - text: 該
+                - emphasis [ref=f11e481]: API
+                - text: 的功能是取得台股上市個股的每日成交資訊，也就是說，我們可以通過這個
+                - emphasis [ref=f11e482]: API
+                - text: 輕鬆獲得每一支股票在每日的交易數據，包括成交量、成交價等詳細資訊。 這 ...
+        - navigation [ref=f11e485]:
+          - heading "頁面導覽" [level=1] [ref=f11e486]
+          - text: "1"
+          - link "Page 2" [ref=f11e489] [cursor=pointer]:
+            - /url: /search?q=TWSE+OpenAPI+%E6%9C%88%E7%87%9F%E6%94%B6+API+%E5%85%AC%E5%8F%B8%E6%9C%88%E7%87%9F%E6%94%B6&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnuA8utD8YLtTP3Y__UL488Qmz5Rig:1791982862639&ei=Dn3ParHXJvLqrfcPkpjQsQw&start=10&sa=N&sstk=AS6-VmJJ1StplET16uPzrIB47LNqVRmGkvMmHjWMpYRcQ7srPidB7bluIzfTdnddws5P3IK7nTVos6M7JhBtHCxcSlb8mVuNqdfcUg&ved=2ahUKEwixluKvyLmXAxVydesIHRIMNMYQ8tMDegQIIRAE
+            - text: "2"
+          - link "Page 3" [ref=f11e491] [cursor=pointer]:
+            - /url: /search?q=TWSE+OpenAPI+%E6%9C%88%E7%87%9F%E6%94%B6+API+%E5%85%AC%E5%8F%B8%E6%9C%88%E7%87%9F%E6%94%B6&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnuA8utD8YLtTP3Y__UL488Qmz5Rig:1791982862639&ei=Dn3ParHXJvLqrfcPkpjQsQw&start=20&sa=N&sstk=AS6-VmJJ1StplET16uPzrIB47LNqVRmGkvMmHjWMpYRcQ7srPidB7bluIzfTdnddws5P3IK7nTVos6M7JhBtHCxcSlb8mVuNqdfcUg&ved=2ahUKEwixluKvyLmXAxVydesIHRIMNMYQ8tMDegQIIRAG
+            - text: "3"
+          - link "Page 4" [ref=f11e493] [cursor=pointer]:
+            - /url: /search?q=TWSE+OpenAPI+%E6%9C%88%E7%87%9F%E6%94%B6+API+%E5%85%AC%E5%8F%B8%E6%9C%88%E7%87%9F%E6%94%B6&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnuA8utD8YLtTP3Y__UL488Qmz5Rig:1791982862639&ei=Dn3ParHXJvLqrfcPkpjQsQw&start=30&sa=N&sstk=AS6-VmJJ1StplET16uPzrIB47LNqVRmGkvMmHjWMpYRcQ7srPidB7bluIzfTdnddws5P3IK7nTVos6M7JhBtHCxcSlb8mVuNqdfcUg&ved=2ahUKEwixluKvyLmXAxVydesIHRIMNMYQ8tMDegQIIRAI
+            - text: "4"
+          - link "Page 5" [ref=f11e495] [cursor=pointer]:
+            - /url: /search?q=TWSE+OpenAPI+%E6%9C%88%E7%87%9F%E6%94%B6+API+%E5%85%AC%E5%8F%B8%E6%9C%88%E7%87%9F%E6%94%B6&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnuA8utD8YLtTP3Y__UL488Qmz5Rig:1791982862639&ei=Dn3ParHXJvLqrfcPkpjQsQw&start=40&sa=N&sstk=AS6-VmJJ1StplET16uPzrIB47LNqVRmGkvMmHjWMpYRcQ7srPidB7bluIzfTdnddws5P3IK7nTVos6M7JhBtHCxcSlb8mVuNqdfcUg&ved=2ahUKEwixluKvyLmXAxVydesIHRIMNMYQ8tMDegQIIRAK
+            - text: "5"
+          - link "Page 6" [ref=f11e497] [cursor=pointer]:
+            - /url: /search?q=TWSE+OpenAPI+%E6%9C%88%E7%87%9F%E6%94%B6+API+%E5%85%AC%E5%8F%B8%E6%9C%88%E7%87%9F%E6%94%B6&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnuA8utD8YLtTP3Y__UL488Qmz5Rig:1791982862639&ei=Dn3ParHXJvLqrfcPkpjQsQw&start=50&sa=N&sstk=AS6-VmJJ1StplET16uPzrIB47LNqVRmGkvMmHjWMpYRcQ7srPidB7bluIzfTdnddws5P3IK7nTVos6M7JhBtHCxcSlb8mVuNqdfcUg&ved=2ahUKEwixluKvyLmXAxVydesIHRIMNMYQ8tMDegQIIRAM
+            - text: "6"
+          - link "Page 7" [ref=f11e499] [cursor=pointer]:
+            - /url: /search?q=TWSE+OpenAPI+%E6%9C%88%E7%87%9F%E6%94%B6+API+%E5%85%AC%E5%8F%B8%E6%9C%88%E7%87%9F%E6%94%B6&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnuA8utD8YLtTP3Y__UL488Qmz5Rig:1791982862639&ei=Dn3ParHXJvLqrfcPkpjQsQw&start=60&sa=N&sstk=AS6-VmJJ1StplET16uPzrIB47LNqVRmGkvMmHjWMpYRcQ7srPidB7bluIzfTdnddws5P3IK7nTVos6M7JhBtHCxcSlb8mVuNqdfcUg&ved=2ahUKEwixluKvyLmXAxVydesIHRIMNMYQ8tMDegQIIRAO
+            - text: "7"
+          - heading [level=2] [ref=f11e501]:
+            - link "下一頁" [ref=f11e502] [cursor=pointer]:
+              - /url: /search?q=TWSE+OpenAPI+%E6%9C%88%E7%87%9F%E6%94%B6+API+%E5%85%AC%E5%8F%B8%E6%9C%88%E7%87%9F%E6%94%B6&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQnuA8utD8YLtTP3Y__UL488Qmz5Rig:1791982862639&ei=Dn3ParHXJvLqrfcPkpjQsQw&start=10&sa=N&sstk=AS6-VmJJ1StplET16uPzrIB47LNqVRmGkvMmHjWMpYRcQ7srPidB7bluIzfTdnddws5P3IK7nTVos6M7JhBtHCxcSlb8mVuNqdfcUg&ved=2ahUKEwixluKvyLmXAxVydesIHRIMNMYQ8NMDegQIIRAQ
+        - navigation
+    - contentinfo [ref=f11e505]:
+      - heading "頁尾連結" [level=1] [ref=f11e506]
+      - generic [ref=f11e510]:
+        - generic [ref=f11e512]:
+          - text: 台灣
+          - generic [ref=f11e514]:
+            - button "220 新北市板橋區 - 根據你的 IP 位址" [ref=f11e516] [cursor=pointer]:
+              - generic [ref=f11e517]: 220 新北市板橋區
+              - generic [ref=f11e519]:
+                - text: "-"
+                - generic [ref=f11e520]: 根據你的 IP 位址
+            - text: "-"
+            - button "更新位置" [ref=f11e522] [cursor=pointer]
+        - generic [ref=f11e525]:
+          - link "說明" [ref=f11e526] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=zh-TW&fg=1
+          - button "提供意見" [ref=f11e528] [cursor=pointer]
+          - link "隱私權" [ref=f11e530] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=zh-TW&fg=1
+          - link "服務條款" [ref=f11e531] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=zh-TW&fg=1

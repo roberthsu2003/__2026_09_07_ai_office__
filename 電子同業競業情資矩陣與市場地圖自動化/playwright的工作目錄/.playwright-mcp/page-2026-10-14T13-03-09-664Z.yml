@@ -1,0 +1,12 @@
+- generic [ref=f20e3]:
+  - generic [ref=f20e6]:
+    - img "Swagger UI" [ref=f20e8]
+    - generic [ref=f20e9]:
+      - textbox [disabled] [ref=f20e10]: https://www.tpex.org.tw/openapi/swagger.json
+      - button "Explore" [ref=f20e11] [cursor=pointer]
+  - generic [ref=f20e12]: loading
+  - generic:
+    - generic:
+      - generic:
+        - link:
+          - /url: https://validator.swagger.io/validator/debug?url=https%3A%2F%2Fwww.tpex.org.tw%2Fopenapi%2Fswagger.json

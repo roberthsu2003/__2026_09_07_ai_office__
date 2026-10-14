@@ -1,0 +1,327 @@
+- generic [active] [ref=f30e1]:
+  - generic:
+    - generic:
+      - link "跳至主內容" [ref=f30e2] [cursor=pointer]
+      - link "無障礙說明" [ref=f30e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=zh-TW
+  - generic [ref=f30e8]:
+    - search [ref=f30e9]:
+      - generic [ref=f30e11]:
+        - link "Google 首頁" [ref=f30e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=zh-TW&sa=X&ved=2ahUKEwi5jOGnybmXAxWVWesIHS0PBDsQPHoECAYQBA
+        - generic [ref=f30e22]:
+          - combobox "搜尋" [ref=f30e24]: 3117 年程 2026 9月 營收 3117 年程 2026 9月 營收
+          - generic [ref=f30e25]:
+            - button "清除" [ref=f30e29] [cursor=pointer]
+            - generic [ref=f30e34]:
+              - button "語音搜尋" [ref=f30e37] [cursor=pointer]
+              - button "以圖搜尋" [ref=f30e42] [cursor=pointer]
+    - generic [ref=f30e45]:
+      - button "設定" [ref=f30e47] [cursor=pointer]
+      - button "分享" [ref=f30e52] [cursor=pointer]
+      - generic [ref=f30e58]:
+        - button "Google 應用程式" [ref=f30e60] [cursor=pointer]
+        - link "登入" [ref=f30e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=zh-TW&passive=true&continue=https://www.google.com/search%3Fq%3D3117%2B%25E5%25B9%25B4%25E7%25A8%258B%2B2026%2B9%25E6%259C%2588%2B%25E7%2587%259F%25E6%2594%25B6&ec=futura_srp_og_si_72236_p
+  - generic [ref=f30e67]:
+    - navigation [ref=f30e73]:
+      - generic [ref=f30e79]:
+        - list [ref=f30e80]:
+          - listitem [ref=f30e81]:
+            - link "AI 模式" [ref=f30e84] [cursor=pointer]:
+              - /url: /search?q=3117+%E5%B9%B4%E7%A8%8B+2026+9%E6%9C%88+%E7%87%9F%E6%94%B6&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntZVSF12Id88VUMF1FnK_24MBigyA:1791983114280&udm=50&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fOgk4t2BtnPd-mbK7HpyKiCJX6kn5nRe4hgcrVXhXWFuUyagucCtX3qv1W-tSwxIxdOId98ls2TxjCM5GJ9AhTaWjFA8TXbBzlGvmWO09DRgt9YMQmRz2EYAiHlnwLKLfyc8Pvz_UCWlgJn4_N00gNagBLKr&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwi5jOGnybmXAxWVWesIHS0PBDsQ2J8OegQIExAD
+          - listitem [ref=f30e88]:
+            - link "全部" [disabled] [ref=f30e89]
+          - listitem [ref=f30e92]:
+            - link "新聞" [ref=f30e93] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntZVSF12Id88VUMF1FnK_24MBigyA:1791983114280&q=3117+%E5%B9%B4%E7%A8%8B+2026+9%E6%9C%88+%E7%87%9F%E6%94%B6&tbm=nws&source=lnms&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fOgk4t2BtnPd-mbK7HpyKiCJX6kn5nRe4hgcrVXhXWFuUyagucCtX3qv1W-tSwxIxdOId98ls2TxjCM5GJ9AhTaWjFA8TXbBzlGvmWO09DRgt9YMQmRz2EYAiHlnwLKLfyc8Pvz_UCWlgJn4_N00gNagBLKr&sa=X&ved=2ahUKEwi5jOGnybmXAxWVWesIHS0PBDsQ0pQJegQIGhAB
+          - listitem [ref=f30e96]:
+            - link "影片" [ref=f30e97] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntZVSF12Id88VUMF1FnK_24MBigyA:1791983114280&udm=vids&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fOgk4t2BtnPd-mbK7HpyKiCJX6kn5nRe4hgcrVXhXWFuUyagucCtX3qv1W-tSwxIxdOId98ls2TxjCM5GJ9AhTaWjFA8TXbBzlGvmWO09DRgt9YMQmRz2EYAiHlnwLKLfyc8Pvz_UCWlgJn4_N00gNagBLKr&q=3117+%E5%B9%B4%E7%A8%8B+2026+9%E6%9C%88+%E7%87%9F%E6%94%B6&sa=X&ved=2ahUKEwi5jOGnybmXAxWVWesIHS0PBDsQtKgLegQIGBAB
+          - listitem [ref=f30e100]:
+            - link "購物" [ref=f30e101] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntZVSF12Id88VUMF1FnK_24MBigyA:1791983114280&udm=28&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fOgk4t2BtnPd-mbK7HpyKiCJX6kn5nRe4hgcrVXhXWFuUyagucCtX3qv1W-tSwxIxdOId98ls2TxjCM5GJ9AhTaWjFA8TXbBzlGvmWO09DRgt9YMQmRz2EYAiHlnwLKLfyc8Pvz_UCWlgJn4_N00gNagBLKr&q=3117+%E5%B9%B4%E7%A8%8B+2026+9%E6%9C%88+%E7%87%9F%E6%94%B6&ved=1t:220175&ictx=111
+          - listitem [ref=f30e104]:
+            - link "圖片" [ref=f30e105] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntZVSF12Id88VUMF1FnK_24MBigyA:1791983114280&udm=2&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fOgk4t2BtnPd-mbK7HpyKiCJX6kn5nRe4hgcrVXhXWFuUyagucCtX3qv1W-tSwxIxdOId98ls2TxjCM5GJ9AhTaWjFA8TXbBzlGvmWO09DRgt9YMQmRz2EYAiHlnwLKLfyc8Pvz_UCWlgJn4_N00gNagBLKr&q=3117+%E5%B9%B4%E7%A8%8B+2026+9%E6%9C%88+%E7%87%9F%E6%94%B6&sa=X&ved=2ahUKEwi5jOGnybmXAxWVWesIHS0PBDsQtKgLegQIGRAB
+          - listitem [ref=f30e108]:
+            - link "短片" [ref=f30e109] [cursor=pointer]:
+              - /url: /search?sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntZVSF12Id88VUMF1FnK_24MBigyA:1791983114280&udm=39&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOYHJZj29gqXMhi2lMTv7-fOgk4t2BtnPd-mbK7HpyKiCJX6kn5nRe4hgcrVXhXWFuUyagucCtX3qv1W-tSwxIxdOId98ls2TxjCM5GJ9AhTaWjFA8TXbBzlGvmWO09DRgt9YMQmRz2EYAiHlnwLKLfyc8Pvz_UCWlgJn4_N00gNagBLKr&q=3117+%E5%B9%B4%E7%A8%8B+2026+9%E6%9C%88+%E7%87%9F%E6%94%B6&sa=X&ved=2ahUKEwi5jOGnybmXAxWVWesIHS0PBDsQs6gLegQIFhAB
+          - listitem [ref=f30e112]:
+            - button [ref=f30e113] [cursor=pointer]:
+              - generic "更多篩選條件" [ref=f30e114]: 更多
+        - button "工具" [ref=f30e121] [cursor=pointer]
+    - heading "搜尋結果" [level=1] [ref=f30e128]
+    - generic [ref=f30e133]:
+      - generic [ref=f30e152]:
+        - heading "思考中" [level=2] [ref=f30e156]
+        - progressbar "產生中" [ref=f30e159]
+      - main [ref=f30e161]:
+        - generic [ref=f30e165]:
+          - generic [ref=f30e168]:
+            - heading "網頁搜尋結果" [level=2] [ref=f30e169]
+            - generic [ref=f30e170]:
+              - generic [ref=f30e173]:
+                - link "年程(3117)2026年9月營收為84325千元，年增63.7% 財報狗 https://statementdog.com › 個股 › 年程(3117)" [ref=f30e175] [cursor=pointer]:
+                  - /url: /goto?url=CAESfQHrOzAVpHeMzk-_4zwZ_AxXFD61WKvtZAfwzWK0SevGKuItqB06B0-qZ0hzf8tMCBUwGMUVz6IQfucgh6YkWM_zj7FefV9ADxCBzLhongnLJv_Y5rpcROCQzBpOyNb_SMNxVglNMV2Q9qIljhOBcSAGKxGaedn-k1HASVKN
+                  - heading "年程(3117)2026年9月營收為84325千元，年增63.7%" [level=3] [ref=f30e176]
+                  - generic [ref=f30e182]:
+                    - generic [ref=f30e183]: 財報狗
+                    - generic [ref=f30e185]: https://statementdog.com › 個股 › 年程(3117)
+                - button "進一步瞭解這項結果" [ref=f30e191] [cursor=pointer]
+              - generic [ref=f30e198]:
+                - text: 單月
+                - emphasis [ref=f30e199]: 營收
+                - text: 年增率為與去年同期月比較的
+                - emphasis [ref=f30e200]: 營收
+                - text: 年增加率，可看出
+                - emphasis [ref=f30e201]: 營收
+                - text: 成長趨勢。財報狗提供
+                - emphasis [ref=f30e202]: 年程
+                - text: 最新月
+                - emphasis [ref=f30e203]: 營收
+                - text: 成長率，幫助投資人判斷公司營運狀況和趨勢.
+          - generic [ref=f30e207]:
+            - generic [ref=f30e210]:
+              - link "【公告】年程2026年9月合併營收8432.5萬元年增63.7% Yahoo股市 https://tw.stock.yahoo.com › news › 公告-年程-2026年9..." [ref=f30e212] [cursor=pointer]:
+                - /url: /goto?url=CAES-QEB6zswFWTWg_Hj2-txPEGOam8tLc4XhP_M-EMuFcPyW_MeZK834h32nizg1_Z830BHQGYjG46jOaa-m2c7Em2mUH5MSa6NRg0oP943lMhH3vzHJoUwpQchJZaElKKk0J1VD6wYxYS-p95rwSZrtCaksR3mQWZLZFqYqgvCS3ZIB80q5kbq-fAQ2igdQLIgv-3UltXkt-lrq9m07j2zmu6y-ItGoemVNfHYpyOv1VtVjA59PESi01C4jnAtfBeqscgEYUhrfztPMkWgwRJbMUgjaBN86kkmv9uXftVuxKfo_PABQmWjC0B_JtSeImJBQcfm_nVkhHihgRM
+                - heading "【公告】年程2026年9月合併營收8432.5萬元年增63.7%" [level=3] [ref=f30e213]
+                - generic [ref=f30e219]:
+                  - generic [ref=f30e220]: Yahoo股市
+                  - generic [ref=f30e222]: https://tw.stock.yahoo.com › news › 公告-年程-2026年9...
+              - button "進一步瞭解這項結果" [ref=f30e228] [cursor=pointer]
+            - generic [ref=f30e234]:
+              - generic [ref=f30e235]: 6 天前 —
+              - generic [ref=f30e236]:
+                - text: 【公告】
+                - emphasis [ref=f30e237]: 年程2026
+                - text: 年
+                - emphasis [ref=f30e238]: 9月
+                - text: 合併
+                - emphasis [ref=f30e239]: 營收
+                - text: 8432.5萬元年增63.7% ; 增減百分比. 63.7 ; 本年累計. 615,473 ; 去年累計. 459,747 ; 增減金額. 155,726 ; 增減百分比. 33.87 ...
+          - generic [ref=f30e243]:
+            - generic [ref=f30e246]:
+              - link "年程9月營收0.84億元年增63.7% 1—9月達6.15億元 鉅亨網 https://news.cnyes.com › news › print" [ref=f30e248] [cursor=pointer]:
+                - /url: /goto?url=CAESZAHrOzAVnnb9JYXAawqooF1KR4f4_9P1kKQ7D693obU9_dDdaTpGhH_5RzUkINFc-T_VZAcJiZl3m4Hixp4ToiXf93i_FTLO_395gb9rya-aGrYlPvSadMeA4MjfzXJ5G8uSpm8
+                - heading "年程9月營收0.84億元年增63.7% 1—9月達6.15億元" [level=3] [ref=f30e249]
+                - generic [ref=f30e255]:
+                  - generic [ref=f30e256]: 鉅亨網
+                  - generic [ref=f30e258]: https://news.cnyes.com › news › print
+              - button "進一步瞭解這項結果" [ref=f30e264] [cursor=pointer]
+            - generic [ref=f30e270]:
+              - generic [ref=f30e271]: 6 天前 —
+              - generic [ref=f30e272]:
+                - emphasis [ref=f30e273]: 年程9月營收0.84億元年增63.7% 1
+                - text: —9月達6.15億元. 鉅亨網新聞中心 2026-10-08 18:44. 年程(3117-TE)2026年9月營收資料(單位:千元). 項目, 9月營收, 1—9月營 ...
+          - generic [ref=f30e277]:
+            - generic [ref=f30e280]:
+              - link "年程科技(3117)9月營收創100個月新高，這種成長動能是... CMoney https://www.cmoney.tw › 首頁 › 年程" [ref=f30e282] [cursor=pointer]:
+                - /url: /goto?url=CAESggEB6zswFR9dQ_ICId_aMIEQ_NwcHWUizHyITHfUXfrv9ejlBD6ZSPmBq1ttpOO2iNvUZGTtkeNh_3IcMbN9NyU3fp-SpieLcUqwHJzK0vrJB56ti6YmWt0N29fXeeYLPEq8Usl42rOR9wbTqM4Db1-6_esAeV4vSfGvfx92ahXlVRW_
+                - heading "年程科技(3117)9月營收創100個月新高，這種成長動能是..." [level=3] [ref=f30e283]
+                - generic [ref=f30e289]:
+                  - generic [ref=f30e290]: CMoney
+                  - generic [ref=f30e292]: https://www.cmoney.tw › 首頁 › 年程
+              - button "進一步瞭解這項結果" [ref=f30e298] [cursor=pointer]
+            - generic [ref=f30e304]:
+              - generic [ref=f30e305]: 13 小時前 —
+              - generic [ref=f30e306]:
+                - emphasis [ref=f30e307]: 年程
+                - text: 科技(
+                - emphasis [ref=f30e308]: "3117"
+                - text: )之所以在被動元件六雄中特別受到關注，關鍵不只在於**
+                - emphasis [ref=f30e309]: 9月營收
+                - text: 年增63.70%**，更在於它同時具備「
+                - emphasis [ref=f30e310]: 營收
+                - text: 創高、獲利基礎與相對低估值」三個面向。對正在觀察AI、 ...
+            - generic [ref=f30e313]:
+              - generic [ref=f30e314]:
+                - link [ref=f30e317] [cursor=pointer]:
+                  - /url: /goto?url=CAESaAHrOzAVYu-T2TrEUbDixAax4qsMsMc5_SGNzRiG5gmLWgcc7xJHGEjNFnFcu0IgmmSNLdbqcwIM8GM9NyKqx5td6JmbLt-ugAugkJJlKqG3vEtm4SKSFn6aX2KQ_3FolbFAmvBS1v-l
+                  - generic [ref=f30e318]:
+                    - emphasis [ref=f30e319]: 年程
+                    - text: 科技（
+                    - emphasis [ref=f30e320]: "3117"
+                    - text: ）
+                    - emphasis [ref=f30e321]: 營收
+                    - text: 創100個月新高！ ... - 股市爆料同學會
+                - generic [ref=f30e322]: 2026年10月12日
+              - generic [ref=f30e324]:
+                - link [ref=f30e327] [cursor=pointer]:
+                  - /url: /goto?url=CAESggEB6zswFdDZ-3bWzpJ6ejv0304T5KRyUkve0E58ncJi83T9licM4sJBm13crfn-lxZnOaXT_MjvQPLaIS6aHXzrpB2kx7GU_BdpYNxuQShG-e7uoRjdS8fycpaM1necZww7zqzDN39peq62NOgOmoQAmYFch9Kr2RMTq9whzb4V1DdM
+                  - generic [ref=f30e328]:
+                    - emphasis [ref=f30e329]: 年程
+                    - text: 科技（
+                    - emphasis [ref=f30e330]: "3117"
+                    - text: ）
+                    - emphasis [ref=f30e331]: 9月營收
+                    - text: 年增63.70%，漲價因素對成長...
+                - generic [ref=f30e332]: 2026年10月13日
+              - link "www.cmoney.tw 的其他相關資訊" [ref=f30e337] [cursor=pointer]:
+                - /url: /search?q=3117+%E5%B9%B4%E7%A8%8B+2026+9%E6%9C%88+%E7%87%9F%E6%94%B6+site:www.cmoney.tw&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntZVSF12Id88VUMF1FnK_24MBigyA:1791983114280&sa=X&ved=2ahUKEwi5jOGnybmXAxWVWesIHS0PBDsQrQIoAnoECC4QAw
+          - generic [ref=f30e341]:
+            - generic [ref=f30e344]:
+              - link "每月營收- 年程(3117) 玩股網 https://www.wantgoo.com › 台股 › 年程(3117)" [ref=f30e346] [cursor=pointer]:
+                - /url: /goto?url=CAESggEB6zswFerFzQnbDnUNk3xd9WFIWeA45PZ9T2Z4Fq5HALvZkVyz2UoD9Y-yLhQ91Fa6BAeg8Np0PHmeZbm0AWaIRLvWlm4Sa68zGWK5mzGpyNJtuoM1ttT19BI27GQ6fuaqJ8S39e7aWzGU29recLguS34ZKEcCLj2rMN9NTqfSh6L9
+                - heading "每月營收- 年程(3117)" [level=3] [ref=f30e347]
+                - generic [ref=f30e353]:
+                  - generic [ref=f30e354]: 玩股網
+                  - generic [ref=f30e356]: https://www.wantgoo.com › 台股 › 年程(3117)
+              - button "進一步瞭解這項結果" [ref=f30e362] [cursor=pointer]
+            - generic [ref=f30e369]:
+              - emphasis [ref=f30e370]: 年程
+              - text: (
+              - emphasis [ref=f30e371]: "3117"
+              - text: ) 每月
+              - emphasis [ref=f30e372]: 營收
+              - text: ;
+              - emphasis [ref=f30e373]: "2026"
+              - text: /02, 38,554, -47.38 ;
+              - emphasis [ref=f30e374]: "2026"
+              - text: /01, 73,282, 64.67 ; 2025/12, 44,500, -1.96 ; 2025/11, 45,393, -8.83 ...
+          - generic [ref=f30e379]:
+            - heading "相關問題" [level=2] [ref=f30e381]
+            - generic [ref=f30e382]:
+              - button "九月份的營收是多少?" [ref=f30e388] [cursor=pointer]
+              - button "映泰 9月份的營收是多少?" [ref=f30e402] [cursor=pointer]
+              - button "鴻海9月份的營收是多少?" [ref=f30e416] [cursor=pointer]
+              - button "矽創電子 9月份的營收是多少?" [ref=f30e430] [cursor=pointer]
+          - generic [ref=f30e440]:
+            - heading "網頁搜尋結果" [level=2] [ref=f30e441]
+            - generic [ref=f30e442]:
+              - generic [ref=f30e445]:
+                - link "3117 年程- 每月營收 Goodinfo!台灣股市資訊網 https://goodinfo.tw › ShowSaleMonChart › STOCK_ID=..." [ref=f30e447] [cursor=pointer]:
+                  - /url: /goto?url=CAESdAHrOzAVnEJDGxzmhM1AsI7dhtwXAm-UJMiyV5r_Za34wycvLbuIV5nuqyyIqj8Nol8infB6K2jajEoz2sRHHPgAQA-4OpyIzw0yMjbaOaagCw_ZE9GpIeI_9-4s6MQv8iILLbn1HpIyb9VVU8yhS9Y1LQLo
+                  - heading "3117 年程- 每月營收" [level=3] [ref=f30e448]
+                  - generic [ref=f30e454]:
+                    - generic [ref=f30e455]: Goodinfo!台灣股市資訊網
+                    - generic [ref=f30e457]: https://goodinfo.tw › ShowSaleMonChart › STOCK_ID=...
+                - button "進一步瞭解這項結果" [ref=f30e463] [cursor=pointer]
+              - generic [ref=f30e470]:
+                - text: •
+                - emphasis [ref=f30e471]: 年程2026
+                - text: 年
+                - emphasis [ref=f30e472]: 9月
+                - text: 16-31日將到期之票據金額、預計支付之帳款金額、應償還借款金額暨 ...
+                - emphasis [ref=f30e473]: 3117 年程2026
+                - text: 年8月
+                - emphasis [ref=f30e474]: 營收
+                - text: 統計.
+                - emphasis [ref=f30e475]: 營收
+                - text: (億), 月增 (億), 月增 (%), 年增 (億), 年增
+          - generic [ref=f30e479]:
+            - generic [ref=f30e482]:
+              - link "3117 年程- 之前看到大前輩27塊分享～～ 默默一路跟著研究 ... CMoney https://www.cmoney.tw › 首頁 › 股海小滅燈" [ref=f30e484] [cursor=pointer]:
+                - /url: /goto?url=CAESaAHrOzAVM2CMWbEYu-CEo8EFhBA3g5n0Wzm_iVR6UecpRtsWYRGEUMHLEuNrVAsdITbUZSzsLmNpSzvLXkWjtG9S00aaorG898FkiR7IqJb725EXL4y_Q9ZDjWxu8BmkAgtJrr-VAwTc
+                - heading "3117 年程- 之前看到大前輩27塊分享～～ 默默一路跟著研究 ..." [level=3] [ref=f30e485]
+                - generic [ref=f30e491]:
+                  - generic [ref=f30e492]: CMoney
+                  - generic [ref=f30e494]: https://www.cmoney.tw › 首頁 › 股海小滅燈
+              - button "進一步瞭解這項結果" [ref=f30e500] [cursor=pointer]
+            - generic [ref=f30e506]:
+              - generic [ref=f30e507]: 5 天前 —
+              - generic [ref=f30e508]:
+                - text: ...
+                - emphasis [ref=f30e509]: 營收
+                - text: 成長 一、
+                - emphasis [ref=f30e510]: "2026"
+                - text: 年
+                - emphasis [ref=f30e511]: 9月營收
+                - text: 成績亮眼！
+                - emphasis [ref=f30e512]: 9月營收
+                - text: ：8,432.5萬元 單月年增：+63.70% 單月月增：+25.07% 前
+                - emphasis [ref=f30e513]: 9月
+                - text: 累計
+                - emphasis [ref=f30e514]: 營收
+                - text: ：6.1547億元 ...
+          - generic [ref=f30e518]:
+            - generic [ref=f30e521]:
+              - link "年程(3117) 每月營收財報分析 HiStock嗨投資理財社群 https://histock.tw › stock › 3117 › 財務報表" [ref=f30e523] [cursor=pointer]:
+                - /url: /goto?url=CAESfQHrOzAVErdWgd5z_-H6P0zmeYEQb8JIy4OUabnT7EVuqDpvQz_W0sNqn4VkSp049uiWz4N9Tmj1itJQED83mbs2wQJNAUTnrTl9GNi7MNxId2z2uBFLqykPo6_bl1hJcFjZq_4zBrBgSGwfC207C4NBDWqPxdVcinu76Jeh
+                - heading "年程(3117) 每月營收財報分析" [level=3] [ref=f30e524]
+                - generic [ref=f30e530]:
+                  - generic [ref=f30e531]: HiStock嗨投資理財社群
+                  - generic [ref=f30e533]: https://histock.tw › stock › 3117 › 財務報表
+              - button "進一步瞭解這項結果" [ref=f30e539] [cursor=pointer]
+            - generic [ref=f30e546]:
+              - emphasis [ref=f30e547]: 年程
+              - text: (
+              - emphasis [ref=f30e548]: "3117"
+              - text: ) 月
+              - emphasis [ref=f30e549]: 營收
+              - text: 報表, IFRSs, 個別
+              - emphasis [ref=f30e550]: 營收
+              - text: ", 合併"
+              - emphasis [ref=f30e551]: 營收
+              - text: ", 營業收入, 累計 ..."
+              - emphasis [ref=f30e552]: "2026"
+              - text: /09, 84,325, 51,511, 25.1%, 63.7%, 615,473, 459,747, 33.9%.
+              - emphasis [ref=f30e553]: "2026"
+              - text: /08, 67,421 ...
+          - generic [ref=f30e557]:
+            - generic [ref=f30e560]:
+              - link "年程做什麼? 3117做什麼? - nStock公司小百科 nstock.tw https://www.nstock.tw › 年程做什麼" [ref=f30e562] [cursor=pointer]:
+                - /url: /goto?url=CAESgwEB6zswFTwiYCaaPR5xMmanrXvabGtg2IPHO5Wig_ayezFOVOTOBRtDt0MraIQOY8U2yKJMR4oDqovD2MP6EOOvLtl50GMXNSTdLTr6fhZN0iWkdo6WTiBu7l72uWywBdLPiouDCxrmG59Dj3qsjnv4joAkX8RWnfdMyccjJ053qX_8Iw
+                - heading "年程做什麼? 3117做什麼? - nStock公司小百科" [level=3] [ref=f30e563]
+                - generic [ref=f30e569]:
+                  - generic [ref=f30e570]: nstock.tw
+                  - generic [ref=f30e572]: https://www.nstock.tw › 年程做什麼
+              - button "進一步瞭解這項結果" [ref=f30e578] [cursor=pointer]
+            - generic [ref=f30e585]:
+              - emphasis [ref=f30e586]: 2026年1~9月累計營收6.15億
+              - text: ，累計成長率33.87%， 去年2025年全年營收5.99億元。 2026Q2 EPS 1.79元，季增-332.47%、年增-209.15%。 2026年Q1~Q2累計 ...
+        - navigation [ref=f30e589]:
+          - heading "頁面導覽" [level=1] [ref=f30e590]
+          - text: "1"
+          - link "Page 2" [ref=f30e593] [cursor=pointer]:
+            - /url: /search?q=3117+%E5%B9%B4%E7%A8%8B+2026+9%E6%9C%88+%E7%87%9F%E6%94%B6&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntZVSF12Id88VUMF1FnK_24MBigyA:1791983114280&ei=Cn7ParnfEJWzrfcPrZ6Q2AM&start=10&sa=N&sstk=AS6-VmLMSDXVJEDE-Wp2kVnvUQxZ_bTadztegyq5muNR2cfGtxeVhayUc5JzA2WihOY4_A2F73BnoYRbzf9FY0A5kTDf5n2jbXSBtw&ved=2ahUKEwi5jOGnybmXAxWVWesIHS0PBDsQ8tMDegQIIRAE
+            - text: "2"
+          - link "Page 3" [ref=f30e595] [cursor=pointer]:
+            - /url: /search?q=3117+%E5%B9%B4%E7%A8%8B+2026+9%E6%9C%88+%E7%87%9F%E6%94%B6&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntZVSF12Id88VUMF1FnK_24MBigyA:1791983114280&ei=Cn7ParnfEJWzrfcPrZ6Q2AM&start=20&sa=N&sstk=AS6-VmLMSDXVJEDE-Wp2kVnvUQxZ_bTadztegyq5muNR2cfGtxeVhayUc5JzA2WihOY4_A2F73BnoYRbzf9FY0A5kTDf5n2jbXSBtw&ved=2ahUKEwi5jOGnybmXAxWVWesIHS0PBDsQ8tMDegQIIRAG
+            - text: "3"
+          - link "Page 4" [ref=f30e597] [cursor=pointer]:
+            - /url: /search?q=3117+%E5%B9%B4%E7%A8%8B+2026+9%E6%9C%88+%E7%87%9F%E6%94%B6&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntZVSF12Id88VUMF1FnK_24MBigyA:1791983114280&ei=Cn7ParnfEJWzrfcPrZ6Q2AM&start=30&sa=N&sstk=AS6-VmLMSDXVJEDE-Wp2kVnvUQxZ_bTadztegyq5muNR2cfGtxeVhayUc5JzA2WihOY4_A2F73BnoYRbzf9FY0A5kTDf5n2jbXSBtw&ved=2ahUKEwi5jOGnybmXAxWVWesIHS0PBDsQ8tMDegQIIRAI
+            - text: "4"
+          - link "Page 5" [ref=f30e599] [cursor=pointer]:
+            - /url: /search?q=3117+%E5%B9%B4%E7%A8%8B+2026+9%E6%9C%88+%E7%87%9F%E6%94%B6&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntZVSF12Id88VUMF1FnK_24MBigyA:1791983114280&ei=Cn7ParnfEJWzrfcPrZ6Q2AM&start=40&sa=N&sstk=AS6-VmLMSDXVJEDE-Wp2kVnvUQxZ_bTadztegyq5muNR2cfGtxeVhayUc5JzA2WihOY4_A2F73BnoYRbzf9FY0A5kTDf5n2jbXSBtw&ved=2ahUKEwi5jOGnybmXAxWVWesIHS0PBDsQ8tMDegQIIRAK
+            - text: "5"
+          - link "Page 6" [ref=f30e601] [cursor=pointer]:
+            - /url: /search?q=3117+%E5%B9%B4%E7%A8%8B+2026+9%E6%9C%88+%E7%87%9F%E6%94%B6&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntZVSF12Id88VUMF1FnK_24MBigyA:1791983114280&ei=Cn7ParnfEJWzrfcPrZ6Q2AM&start=50&sa=N&sstk=AS6-VmLMSDXVJEDE-Wp2kVnvUQxZ_bTadztegyq5muNR2cfGtxeVhayUc5JzA2WihOY4_A2F73BnoYRbzf9FY0A5kTDf5n2jbXSBtw&ved=2ahUKEwi5jOGnybmXAxWVWesIHS0PBDsQ8tMDegQIIRAM
+            - text: "6"
+          - link "Page 7" [ref=f30e603] [cursor=pointer]:
+            - /url: /search?q=3117+%E5%B9%B4%E7%A8%8B+2026+9%E6%9C%88+%E7%87%9F%E6%94%B6&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntZVSF12Id88VUMF1FnK_24MBigyA:1791983114280&ei=Cn7ParnfEJWzrfcPrZ6Q2AM&start=60&sa=N&sstk=AS6-VmLMSDXVJEDE-Wp2kVnvUQxZ_bTadztegyq5muNR2cfGtxeVhayUc5JzA2WihOY4_A2F73BnoYRbzf9FY0A5kTDf5n2jbXSBtw&ved=2ahUKEwi5jOGnybmXAxWVWesIHS0PBDsQ8tMDegQIIRAO
+            - text: "7"
+          - link "Page 8" [ref=f30e605] [cursor=pointer]:
+            - /url: /search?q=3117+%E5%B9%B4%E7%A8%8B+2026+9%E6%9C%88+%E7%87%9F%E6%94%B6&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntZVSF12Id88VUMF1FnK_24MBigyA:1791983114280&ei=Cn7ParnfEJWzrfcPrZ6Q2AM&start=70&sa=N&sstk=AS6-VmLMSDXVJEDE-Wp2kVnvUQxZ_bTadztegyq5muNR2cfGtxeVhayUc5JzA2WihOY4_A2F73BnoYRbzf9FY0A5kTDf5n2jbXSBtw&ved=2ahUKEwi5jOGnybmXAxWVWesIHS0PBDsQ8tMDegQIIRAQ
+            - text: "8"
+          - link "Page 9" [ref=f30e607] [cursor=pointer]:
+            - /url: /search?q=3117+%E5%B9%B4%E7%A8%8B+2026+9%E6%9C%88+%E7%87%9F%E6%94%B6&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntZVSF12Id88VUMF1FnK_24MBigyA:1791983114280&ei=Cn7ParnfEJWzrfcPrZ6Q2AM&start=80&sa=N&sstk=AS6-VmLMSDXVJEDE-Wp2kVnvUQxZ_bTadztegyq5muNR2cfGtxeVhayUc5JzA2WihOY4_A2F73BnoYRbzf9FY0A5kTDf5n2jbXSBtw&ved=2ahUKEwi5jOGnybmXAxWVWesIHS0PBDsQ8tMDegQIIRAS
+            - text: "9"
+          - link "Page 10" [ref=f30e609] [cursor=pointer]:
+            - /url: /search?q=3117+%E5%B9%B4%E7%A8%8B+2026+9%E6%9C%88+%E7%87%9F%E6%94%B6&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntZVSF12Id88VUMF1FnK_24MBigyA:1791983114280&ei=Cn7ParnfEJWzrfcPrZ6Q2AM&start=90&sa=N&sstk=AS6-VmLMSDXVJEDE-Wp2kVnvUQxZ_bTadztegyq5muNR2cfGtxeVhayUc5JzA2WihOY4_A2F73BnoYRbzf9FY0A5kTDf5n2jbXSBtw&ved=2ahUKEwi5jOGnybmXAxWVWesIHS0PBDsQ8tMDegQIIRAU
+            - text: "10"
+          - heading [level=2] [ref=f30e611]:
+            - link "下一頁" [ref=f30e612] [cursor=pointer]:
+              - /url: /search?q=3117+%E5%B9%B4%E7%A8%8B+2026+9%E6%9C%88+%E7%87%9F%E6%94%B6&sca_esv=bcdf9297374b6ca0&sxsrf=APpeQntZVSF12Id88VUMF1FnK_24MBigyA:1791983114280&ei=Cn7ParnfEJWzrfcPrZ6Q2AM&start=10&sa=N&sstk=AS6-VmLMSDXVJEDE-Wp2kVnvUQxZ_bTadztegyq5muNR2cfGtxeVhayUc5JzA2WihOY4_A2F73BnoYRbzf9FY0A5kTDf5n2jbXSBtw&ved=2ahUKEwi5jOGnybmXAxWVWesIHS0PBDsQ8NMDegQIIRAW
+        - navigation
+    - contentinfo [ref=f30e615]:
+      - heading "頁尾連結" [level=1] [ref=f30e616]
+      - generic [ref=f30e620]:
+        - generic [ref=f30e622]:
+          - text: 台灣
+          - generic [ref=f30e624]:
+            - button "220 新北市板橋區 - 根據你的 IP 位址" [ref=f30e626] [cursor=pointer]:
+              - generic [ref=f30e627]: 220 新北市板橋區
+              - generic [ref=f30e629]:
+                - text: "-"
+                - generic [ref=f30e630]: 根據你的 IP 位址
+            - text: "-"
+            - button "更新位置" [ref=f30e632] [cursor=pointer]
+        - generic [ref=f30e635]:
+          - link "說明" [ref=f30e636] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=zh-TW&fg=1
+          - button "提供意見" [ref=f30e638] [cursor=pointer]
+          - link "隱私權" [ref=f30e640] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=zh-TW&fg=1
+          - link "服務條款" [ref=f30e641] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=zh-TW&fg=1
